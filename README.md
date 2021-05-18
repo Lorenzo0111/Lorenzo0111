@@ -12,7 +12,7 @@ I'm a **Java Developer**.
 
 ## Recent Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 1. ![comment] **Commented:** [Lorenzo0111/Lorenzo0111#1](https://github.com/Lorenzo0111/Lorenzo0111/issues/1)
 2. ![issueClosed] **Issue closed:** [badges/shields#6504](https://github.com/badges/shields/issues/6504)
 3. ![pullRequestOpened] **Pull request opened:** [jamesgeorge007/github-activity-readme#60](https://github.com/jamesgeorge007/github-activity-readme/pull/60)
@@ -23,7 +23,7 @@ I'm a **Java Developer**.
 8. ![pullRequestOpened] **Pull request opened:** [Lorenzo0111/RocketJoin#7](https://github.com/Lorenzo0111/RocketJoin/pull/7)
 9. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#16](https://github.com/Lorenzo0111/RocketPlaceholders/issues/16)
 10. ![issueOpened] **Issue opened:** [SpiGetOrg/Spiget#37](https://github.com/SpiGetOrg/Spiget/issues/37)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://github.com/Lorenzo0111/Lorenzo0111/raw/main/media/IssueOpened.svg
 [issueClosed]: https://github.com/Lorenzo0111/Lorenzo0111/raw/main/media/IssueClosed.svg

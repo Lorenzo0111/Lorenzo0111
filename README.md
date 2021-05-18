@@ -10,7 +10,9 @@ I'm a **Java Developer**.
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)
 
-## Recent Activity
+## ⏱ Recent Activity
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ![comment] **Commented:** [Lorenzo0111/Lorenzo0111#1](https://github.com/Lorenzo0111/Lorenzo0111/issues/1)

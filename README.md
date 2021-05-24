@@ -13,15 +13,15 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 24th, 2021, 12:43:56 AM
+Last Updated: Monday, May 24th, 2021, 12:19:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [Lorenzo0111/PluginsLib#5](https://github.com/Lorenzo0111/PluginsLib/issues/5)
-2. ![comment] **Commented:** [Lorenzo0111/RocketJoin#9](https://github.com/Lorenzo0111/RocketJoin/issues/9)
-3. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#2](https://github.com/Lorenzo0111/DownloadTracker/issues/2)
-4. ![comment] **Commented:** [Lorenzo0111/Lorenzo0111#2](https://github.com/Lorenzo0111/Lorenzo0111/issues/2)
-5. ![comment] **Commented:** [Lorenzo0111/Lorenzo0111#1](https://github.com/Lorenzo0111/Lorenzo0111/issues/1)
+1. 💬 Commented on [#3](https://github.com/Lorenzo0111/Lorenzo0111/pull/3#issuecomment-846988019) in [Lorenzo0111/Lorenzo0111](https://github.com/Lorenzo0111/Lorenzo0111)
+2. ✌️ Released [Other annotations](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.1.2.1) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+3. ✌️ Released [Annotations and more](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.1.2) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+4. 💬 Commented on [#5](https://github.com/Lorenzo0111/PluginsLib/pull/5#issuecomment-845896842) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+5. 💬 Commented on [#9](https://github.com/Lorenzo0111/RocketJoin/pull/9#issuecomment-845895904) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
 6. ![issueClosed] **Issue closed:** [badges/shields#6504](https://github.com/badges/shields/issues/6504)
 7. ![pullRequestOpened] **Pull request opened:** [jamesgeorge007/github-activity-readme#60](https://github.com/jamesgeorge007/github-activity-readme/pull/60)
 8. ![issueOpened] **Issue opened:** [badges/shields#6504](https://github.com/badges/shields/issues/6504)

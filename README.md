@@ -13,15 +13,15 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 26th, 2021, 12:52:44 AM
+Last Updated: Wednesday, May 26th, 2021, 12:23:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#18](https://github.com/Lorenzo0111/RocketPlaceholders/pull/18#issuecomment-848054108) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
-2. 💬 Commented on [#11](https://github.com/Lorenzo0111/RocketJoin/pull/11#issuecomment-848053891) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
-3. 💬 Commented on [#3](https://github.com/Lorenzo0111/DownloadTracker/pull/3#issuecomment-848053597) in [Lorenzo0111/DownloadTracker](https://github.com/Lorenzo0111/DownloadTracker)
-4. ⭐ Starred [harry0198/InfoHeads](https://github.com/harry0198/InfoHeads)
-5. 💬 Commented on [#3](https://github.com/Lorenzo0111/Lorenzo0111/pull/3#issuecomment-846988019) in [Lorenzo0111/Lorenzo0111](https://github.com/Lorenzo0111/Lorenzo0111)
+1. 💬 Commented on [#237](https://github.com/NuVotifier/NuVotifier/issues/237#issuecomment-848705408) in [NuVotifier/NuVotifier](https://github.com/NuVotifier/NuVotifier)
+2. 💬 Commented on [#6](https://github.com/Lorenzo0111/PluginsLib/pull/6#issuecomment-848470913) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+3. 💬 Commented on [#18](https://github.com/Lorenzo0111/RocketPlaceholders/pull/18#issuecomment-848054108) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
+4. 💬 Commented on [#11](https://github.com/Lorenzo0111/RocketJoin/pull/11#issuecomment-848053891) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
+5. 💬 Commented on [#3](https://github.com/Lorenzo0111/DownloadTracker/pull/3#issuecomment-848053597) in [Lorenzo0111/DownloadTracker](https://github.com/Lorenzo0111/DownloadTracker)
 6. ![issueClosed] **Issue closed:** [badges/shields#6504](https://github.com/badges/shields/issues/6504)
 7. ![pullRequestOpened] **Pull request opened:** [jamesgeorge007/github-activity-readme#60](https://github.com/jamesgeorge007/github-activity-readme/pull/60)
 8. ![issueOpened] **Issue opened:** [badges/shields#6504](https://github.com/badges/shields/issues/6504)

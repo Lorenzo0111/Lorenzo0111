@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 27th, 2021, 12:31:21 PM
+Last Updated: Thursday, May 27th, 2021, 1:51:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#63](https://github.com/Readme-Workflows/recent-activity/pull/63) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 🔱 Forked [Lorenzo0111/recent-activity](https://github.com/Lorenzo0111/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ❗️ Opened issue [#87](https://github.com/Bastian/bStats-Metrics/issues/87) in [Bastian/bStats-Metrics](https://github.com/Bastian/bStats-Metrics)
-4. 💬 Commented on [#10](https://github.com/Lorenzo0111/RocketJoin/pull/10#issuecomment-848972602) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
-5. 💪 Opened PR [#19](https://github.com/Lorenzo0111/RocketPlaceholders/pull/19) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
-6. ![issueClosed] **Issue closed:** [badges/shields#6504](https://github.com/badges/shields/issues/6504)
-7. ![pullRequestOpened] **Pull request opened:** [jamesgeorge007/github-activity-readme#60](https://github.com/jamesgeorge007/github-activity-readme/pull/60)
-8. ![issueOpened] **Issue opened:** [badges/shields#6504](https://github.com/badges/shields/issues/6504)
-9. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#1](https://github.com/Lorenzo0111/DownloadTracker/issues/1)
-10. ![comment] **Commented:** [Lorenzo0111/RocketJoin#8](https://github.com/Lorenzo0111/RocketJoin/issues/8)
+1. ![prMerged] **Pull request merged:** [Lorenzo0111/Lorenzo0111#4](https://github.com/Lorenzo0111/Lorenzo0111/pull/4)
+2. ![comment] **Commented:** [Lorenzo0111/Lorenzo0111#4](https://github.com/Lorenzo0111/Lorenzo0111/pull/4#issuecomment-849651085)
+3. ![prOpened] **Pull request opened:** [Readme-Workflows/recent-activity#63](https://github.com/Readme-Workflows/recent-activity/pull/63)
+4. ![fork] Forked [Lorenzo0111/recent-activity](https://github.com/Lorenzo0111/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![issueOpened] **Issue opened:** [Bastian/bStats-Metrics#87](https://github.com/Bastian/bStats-Metrics/issues/87)
+6. ![comment] **Commented:** [Lorenzo0111/RocketJoin#10](https://github.com/Lorenzo0111/RocketJoin/pull/10#issuecomment-848972602)
+7. ![prOpened] **Pull request opened:** [Lorenzo0111/RocketPlaceholders#19](https://github.com/Lorenzo0111/RocketPlaceholders/pull/19)
+8. ![comment] **Commented:** [NuVotifier/NuVotifier#237](https://github.com/NuVotifier/NuVotifier/issues/237#issuecomment-848705408)
+9. ![comment] **Commented:** [Lorenzo0111/PluginsLib#6](https://github.com/Lorenzo0111/PluginsLib/pull/6#issuecomment-848470913)
+10. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#18](https://github.com/Lorenzo0111/RocketPlaceholders/pull/18#issuecomment-848054108)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

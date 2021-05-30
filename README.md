@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 30th, 2021, 1:21:11 AM
+Last Updated: Sunday, May 30th, 2021, 12:39:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [RocketPluginsMC/RocketPlaceholdersAPI-Cookbook#1](https://github.com/RocketPluginsMC/RocketPlaceholdersAPI-Cookbook/pull/1#issuecomment-849808696)
-2. ![release] Released [v2.3.16](https://github.com/harry0198/InfoHeads/releases/tag/2.3.16) in [harry0198/InfoHeads](https://github.com/harry0198/InfoHeads)
-3. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#13](https://github.com/harry0198/InfoHeads/pull/13)
-4. ![prOpened] **Pull request opened:** [harry0198/InfoHeads#13](https://github.com/harry0198/InfoHeads/pull/13)
-5. ![comment] **Commented:** [Readme-Workflows/recent-activity#63](https://github.com/Readme-Workflows/recent-activity/pull/63#issuecomment-849731477)
-6. ![comment] **Commented:** [Readme-Workflows/recent-activity#63](https://github.com/Readme-Workflows/recent-activity/pull/63#issuecomment-849716300)
-7. ![comment] **Commented:** [Readme-Workflows/recent-activity#63](https://github.com/Readme-Workflows/recent-activity/pull/63#issuecomment-849656013)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/Lorenzo0111#4](https://github.com/Lorenzo0111/Lorenzo0111/pull/4)
-9. ![comment] **Commented:** [Lorenzo0111/Lorenzo0111#4](https://github.com/Lorenzo0111/Lorenzo0111/pull/4#issuecomment-849651085)
-10. ![prOpened] **Pull request opened:** [Readme-Workflows/recent-activity#63](https://github.com/Readme-Workflows/recent-activity/pull/63)
+1. ![release] Released [v1.1.2.2](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.1.2.2) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+2. ![issueOpened] **Issue opened:** [HelpChat/BukkitForcedHosts#1](https://github.com/HelpChat/BukkitForcedHosts/issues/1)
+3. ![comment] **Commented:** [RocketPluginsMC/RocketPlaceholdersAPI-Cookbook#1](https://github.com/RocketPluginsMC/RocketPlaceholdersAPI-Cookbook/pull/1#issuecomment-849808696)
+4. ![release] Released [v2.3.16](https://github.com/harry0198/InfoHeads/releases/tag/2.3.16) in [harry0198/InfoHeads](https://github.com/harry0198/InfoHeads)
+5. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#13](https://github.com/harry0198/InfoHeads/pull/13)
+6. ![prOpened] **Pull request opened:** [harry0198/InfoHeads#13](https://github.com/harry0198/InfoHeads/pull/13)
+7. ![comment] **Commented:** [Readme-Workflows/recent-activity#63](https://github.com/Readme-Workflows/recent-activity/pull/63#issuecomment-849731477)
+8. ![comment] **Commented:** [Readme-Workflows/recent-activity#63](https://github.com/Readme-Workflows/recent-activity/pull/63#issuecomment-849716300)
+9. ![comment] **Commented:** [Readme-Workflows/recent-activity#63](https://github.com/Readme-Workflows/recent-activity/pull/63#issuecomment-849656013)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/Lorenzo0111#4](https://github.com/Lorenzo0111/Lorenzo0111/pull/4)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

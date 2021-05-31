@@ -3,6 +3,7 @@ settings:
   commit_msg: "💠 | Update Lorenzo0111/Lorenzo0111 activity"
   max_lines: 10
   url_text: "{REPO}{ID}"
+  commit_name: "ReadMe Updater"
 messages:
   comments: "![comment] **Commented:** {URL}"
   issue_opened: "![issueOpened] **Issue opened:** {URL}"

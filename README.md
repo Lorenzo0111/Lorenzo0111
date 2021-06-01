@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 31st, 2021, 1:45:15 PM
+Last Updated: Tuesday, June 1st, 2021, 1:51:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [v1.2.0](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.2.0) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
-2. ![release] Released [v1.1.2.2](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.1.2.2) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
-3. ![issueOpened] **Issue opened:** [HelpChat/BukkitForcedHosts#1](https://github.com/HelpChat/BukkitForcedHosts/issues/1)
-4. ![release] Released [v2.3.16](https://github.com/harry0198/InfoHeads/releases/tag/2.3.16) in [harry0198/InfoHeads](https://github.com/harry0198/InfoHeads)
-5. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#13](https://github.com/harry0198/InfoHeads/pull/13)
-6. ![prOpened] **Pull request opened:** [harry0198/InfoHeads#13](https://github.com/harry0198/InfoHeads/pull/13)
-7. ![prMerged] **Pull request merged:** [Lorenzo0111/Lorenzo0111#4](https://github.com/Lorenzo0111/Lorenzo0111/pull/4)
-8. ![prOpened] **Pull request opened:** [Readme-Workflows/recent-activity#63](https://github.com/Readme-Workflows/recent-activity/pull/63)
-9. ![fork] Forked [Lorenzo0111/recent-activity](https://github.com/Lorenzo0111/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![issueOpened] **Issue opened:** [Bastian/bStats-Metrics#87](https://github.com/Bastian/bStats-Metrics/issues/87)
+1. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#17](https://github.com/harry0198/InfoHeads/pull/17)
+2. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#18](https://github.com/harry0198/InfoHeads/pull/18)
+3. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#15](https://github.com/harry0198/InfoHeads/pull/15)
+4. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#23](https://github.com/harry0198/InfoHeads/pull/23)
+5. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#20](https://github.com/harry0198/InfoHeads/pull/20)
+6. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#21](https://github.com/harry0198/InfoHeads/pull/21)
+7. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#22](https://github.com/harry0198/InfoHeads/pull/22)
+8. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#16](https://github.com/harry0198/InfoHeads/pull/16)
+9. ![release] Released [v1.2.1.1](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.2.0.1) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+10. ![release] Released [v1.2.0](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.2.0) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

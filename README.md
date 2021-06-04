@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 3rd, 2021, 12:40:15 PM
+Last Updated: Friday, June 4th, 2021, 1:24:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#19](https://github.com/Lorenzo0111/RocketPlaceholders/pull/19)
-2. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#17](https://github.com/harry0198/InfoHeads/pull/17)
-3. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#18](https://github.com/harry0198/InfoHeads/pull/18)
-4. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#15](https://github.com/harry0198/InfoHeads/pull/15)
-5. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#23](https://github.com/harry0198/InfoHeads/pull/23)
-6. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#20](https://github.com/harry0198/InfoHeads/pull/20)
-7. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#21](https://github.com/harry0198/InfoHeads/pull/21)
-8. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#22](https://github.com/harry0198/InfoHeads/pull/22)
-9. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#16](https://github.com/harry0198/InfoHeads/pull/16)
-10. ![release] Released [v1.2.1.1](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.2.0.1) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+1. ![prMerged] **Pull request merged:** [MaLoCraft/SkyVilleTexture#2](https://github.com/MaLoCraft/SkyVilleTexture/pull/2)
+2. ![prOpened] **Pull request opened:** [MaLoCraft/SkyVilleTexture#2](https://github.com/MaLoCraft/SkyVilleTexture/pull/2)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#19](https://github.com/Lorenzo0111/RocketPlaceholders/pull/19)
+4. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#17](https://github.com/harry0198/InfoHeads/pull/17)
+5. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#18](https://github.com/harry0198/InfoHeads/pull/18)
+6. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#15](https://github.com/harry0198/InfoHeads/pull/15)
+7. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#23](https://github.com/harry0198/InfoHeads/pull/23)
+8. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#20](https://github.com/harry0198/InfoHeads/pull/20)
+9. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#21](https://github.com/harry0198/InfoHeads/pull/21)
+10. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#22](https://github.com/harry0198/InfoHeads/pull/22)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

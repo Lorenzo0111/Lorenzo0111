@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 8th, 2021, 12:57:03 AM
+Last Updated: Tuesday, June 8th, 2021, 12:16:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketJoin#13](https://github.com/Lorenzo0111/RocketJoin/issues/13)
-2. ![repoCreated] Created new repository [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
-3. ![release] Released [Added HEX Support](https://github.com/Lorenzo0111/RocketJoin/releases/tag/1.9.2) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
-4. ![release] Released [v1.2.2](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.2.2) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
-5. ![issueClosed] **Issue closed:** [HelpChat/BukkitForcedHosts#1](https://github.com/HelpChat/BukkitForcedHosts/issues/1)
-6. ![prMerged] **Pull request merged:** [MaLoCraft/SkyVilleTexture#2](https://github.com/MaLoCraft/SkyVilleTexture/pull/2)
-7. ![prOpened] **Pull request opened:** [MaLoCraft/SkyVilleTexture#2](https://github.com/MaLoCraft/SkyVilleTexture/pull/2)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#19](https://github.com/Lorenzo0111/RocketPlaceholders/pull/19)
-9. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#17](https://github.com/harry0198/InfoHeads/pull/17)
-10. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#18](https://github.com/harry0198/InfoHeads/pull/18)
+1. ![issueClosed] **Issue closed:** [NamelessMC/Nameless#2290](https://github.com/NamelessMC/Nameless/issues/2290)
+2. ![issueOpened] **Issue opened:** [NamelessMC/Nameless#2290](https://github.com/NamelessMC/Nameless/issues/2290)
+3. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketJoin#13](https://github.com/Lorenzo0111/RocketJoin/issues/13)
+4. ![repoCreated] Created new repository [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
+5. ![release] Released [Added HEX Support](https://github.com/Lorenzo0111/RocketJoin/releases/tag/1.9.2) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
+6. ![release] Released [v1.2.2](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.2.2) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+7. ![issueClosed] **Issue closed:** [HelpChat/BukkitForcedHosts#1](https://github.com/HelpChat/BukkitForcedHosts/issues/1)
+8. ![prMerged] **Pull request merged:** [MaLoCraft/SkyVilleTexture#2](https://github.com/MaLoCraft/SkyVilleTexture/pull/2)
+9. ![prOpened] **Pull request opened:** [MaLoCraft/SkyVilleTexture#2](https://github.com/MaLoCraft/SkyVilleTexture/pull/2)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#19](https://github.com/Lorenzo0111/RocketPlaceholders/pull/19)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

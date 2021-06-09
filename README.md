@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 8th, 2021, 12:16:58 PM
+Last Updated: Wednesday, June 9th, 2021, 12:38:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] **Issue closed:** [NamelessMC/Nameless#2290](https://github.com/NamelessMC/Nameless/issues/2290)
-2. ![issueOpened] **Issue opened:** [NamelessMC/Nameless#2290](https://github.com/NamelessMC/Nameless/issues/2290)
-3. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketJoin#13](https://github.com/Lorenzo0111/RocketJoin/issues/13)
-4. ![repoCreated] Created new repository [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
-5. ![release] Released [Added HEX Support](https://github.com/Lorenzo0111/RocketJoin/releases/tag/1.9.2) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
-6. ![release] Released [v1.2.2](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.2.2) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
-7. ![issueClosed] **Issue closed:** [HelpChat/BukkitForcedHosts#1](https://github.com/HelpChat/BukkitForcedHosts/issues/1)
-8. ![prMerged] **Pull request merged:** [MaLoCraft/SkyVilleTexture#2](https://github.com/MaLoCraft/SkyVilleTexture/pull/2)
-9. ![prOpened] **Pull request opened:** [MaLoCraft/SkyVilleTexture#2](https://github.com/MaLoCraft/SkyVilleTexture/pull/2)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#19](https://github.com/Lorenzo0111/RocketPlaceholders/pull/19)
+1. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmoryVehicles2#8](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/8)
+2. ![prOpened] **Pull request opened:** [ZombieStriker/QualityArmoryVehicles2#8](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/8)
+3. ![issueClosed] **Issue closed:** [NamelessMC/Nameless#2290](https://github.com/NamelessMC/Nameless/issues/2290)
+4. ![issueOpened] **Issue opened:** [NamelessMC/Nameless#2290](https://github.com/NamelessMC/Nameless/issues/2290)
+5. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketJoin#13](https://github.com/Lorenzo0111/RocketJoin/issues/13)
+6. ![repoCreated] Created new repository [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
+7. ![release] Released [Added HEX Support](https://github.com/Lorenzo0111/RocketJoin/releases/tag/1.9.2) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
+8. ![release] Released [v1.2.2](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.2.2) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+9. ![issueClosed] **Issue closed:** [HelpChat/BukkitForcedHosts#1](https://github.com/HelpChat/BukkitForcedHosts/issues/1)
+10. ![prMerged] **Pull request merged:** [MaLoCraft/SkyVilleTexture#2](https://github.com/MaLoCraft/SkyVilleTexture/pull/2)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

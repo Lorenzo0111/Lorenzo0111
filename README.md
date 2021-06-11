@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 10th, 2021, 12:16:47 PM
+Last Updated: Friday, June 11th, 2021, 12:34:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmoryVehicles2#9](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/9)
-2. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmoryVehicles2#8](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/8)
-3. ![prOpened] **Pull request opened:** [ZombieStriker/QualityArmoryVehicles2#8](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/8)
-4. ![issueClosed] **Issue closed:** [NamelessMC/Nameless#2290](https://github.com/NamelessMC/Nameless/issues/2290)
-5. ![issueOpened] **Issue opened:** [NamelessMC/Nameless#2290](https://github.com/NamelessMC/Nameless/issues/2290)
-6. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketJoin#13](https://github.com/Lorenzo0111/RocketJoin/issues/13)
-7. ![repoCreated] Created new repository [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
-8. ![release] Released [Added HEX Support](https://github.com/Lorenzo0111/RocketJoin/releases/tag/1.9.2) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
-9. ![release] Released [v1.2.2](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.2.2) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
-10. ![issueClosed] **Issue closed:** [HelpChat/BukkitForcedHosts#1](https://github.com/HelpChat/BukkitForcedHosts/issues/1)
+1. ![issueOpened] **Issue opened:** [TriumphTeam/gui#17](https://github.com/TriumphTeam/gui/issues/17)
+2. ![prOpened] **Pull request opened:** [TriumphTeam/gui#16](https://github.com/TriumphTeam/gui/pull/16)
+3. ![fork] Forked [Lorenzo0111/gui](https://github.com/Lorenzo0111/gui) from [TriumphTeam/gui](https://github.com/TriumphTeam/gui)
+4. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmoryVehicles2#9](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/9)
+5. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmoryVehicles2#8](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/8)
+6. ![prOpened] **Pull request opened:** [ZombieStriker/QualityArmoryVehicles2#8](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/8)
+7. ![issueClosed] **Issue closed:** [NamelessMC/Nameless#2290](https://github.com/NamelessMC/Nameless/issues/2290)
+8. ![issueOpened] **Issue opened:** [NamelessMC/Nameless#2290](https://github.com/NamelessMC/Nameless/issues/2290)
+9. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketJoin#13](https://github.com/Lorenzo0111/RocketJoin/issues/13)
+10. ![repoCreated] Created new repository [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

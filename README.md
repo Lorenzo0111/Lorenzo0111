@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 12th, 2021, 12:30:22 AM
+Last Updated: Saturday, June 12th, 2021, 12:14:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#9](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/9)
-2. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#10](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/10)
-3. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#11](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/11)
-4. ![issueOpened] **Issue opened:** [jitpack/jitci#19](https://github.com/jitpack/jitci/issues/19)
-5. ![release] Released [v1.0](https://github.com/Lorenzo0111/ItemFramework/releases/tag/1.0) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
-6. ![release] Released [v1.0](https://github.com/Lorenzo0111/ItemFramework/releases/tag/1.0) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
-7. ![wiki] Created new wiki page [Other-Stuff](https://github.com/Lorenzo0111/ItemFramework/wiki/Other-Stuff) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
-8. ![wiki] Created new wiki page [Installation](https://github.com/Lorenzo0111/ItemFramework/wiki/Installation) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
-9. ![wiki] Created new wiki page [_Sidebar](https://github.com/Lorenzo0111/ItemFramework/wiki/_Sidebar) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
-10. ![wiki] Created new wiki page [Creating-an-item](https://github.com/Lorenzo0111/ItemFramework/wiki/Creating-an-item) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
+1. ![prClosed] **Pull request closed:** [TriumphTeam/gui#16](https://github.com/TriumphTeam/gui/pull/16)
+2. ![issueClosed] **Issue closed:** [TriumphTeam/gui#17](https://github.com/TriumphTeam/gui/issues/17)
+3. ![issueOpened] **Issue opened:** [harry0198/InfoHeads#24](https://github.com/harry0198/InfoHeads/issues/24)
+4. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#9](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/9)
+5. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#10](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/10)
+6. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#11](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/11)
+7. ![issueOpened] **Issue opened:** [jitpack/jitci#19](https://github.com/jitpack/jitci/issues/19)
+8. ![release] Released [v1.0](https://github.com/Lorenzo0111/ItemFramework/releases/tag/1.0) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
+9. ![release] Released [v1.0](https://github.com/Lorenzo0111/ItemFramework/releases/tag/1.0) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
+10. ![wiki] Created new wiki page [Other-Stuff](https://github.com/Lorenzo0111/ItemFramework/wiki/Other-Stuff) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 13th, 2021, 12:36:27 AM
+Last Updated: Sunday, June 13th, 2021, 12:14:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [v1.0](https://github.com/Lorenzo0111/MultiLang/releases/tag/1.0) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
-2. ![prClosed] **Pull request closed:** [TriumphTeam/gui#16](https://github.com/TriumphTeam/gui/pull/16)
-3. ![issueClosed] **Issue closed:** [TriumphTeam/gui#17](https://github.com/TriumphTeam/gui/issues/17)
-4. ![issueOpened] **Issue opened:** [harry0198/InfoHeads#24](https://github.com/harry0198/InfoHeads/issues/24)
-5. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#9](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/9)
-6. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#10](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/10)
-7. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#11](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/11)
-8. ![issueOpened] **Issue opened:** [jitpack/jitci#19](https://github.com/jitpack/jitci/issues/19)
-9. ![release] Released [v1.0](https://github.com/Lorenzo0111/ItemFramework/releases/tag/1.0) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
-10. ![release] Released [v1.0](https://github.com/Lorenzo0111/ItemFramework/releases/tag/1.0) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
+1. ![release] Released [v1.3](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.3) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+2. ![issueOpened] **Issue opened:** [SlimJar/slimjar#22](https://github.com/SlimJar/slimjar/issues/22)
+3. ![star] Starred [SlimJar/slimjar](https://github.com/SlimJar/slimjar)
+4. ![release] Released [v1.2.3](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.2.3) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+5. ![release] Released [v1.1](https://github.com/Lorenzo0111/ItemFramework/releases/tag/1.1) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
+6. ![release] Released [v1.0](https://github.com/Lorenzo0111/MultiLang/releases/tag/1.0) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
+7. ![prClosed] **Pull request closed:** [TriumphTeam/gui#16](https://github.com/TriumphTeam/gui/pull/16)
+8. ![issueClosed] **Issue closed:** [TriumphTeam/gui#17](https://github.com/TriumphTeam/gui/issues/17)
+9. ![issueOpened] **Issue opened:** [harry0198/InfoHeads#24](https://github.com/harry0198/InfoHeads/issues/24)
+10. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#9](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/9)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

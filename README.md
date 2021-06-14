@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 14th, 2021, 12:32:46 AM
+Last Updated: Monday, June 14th, 2021, 12:15:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [v1.3.1](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.3.1) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
-2. ![release] Released [v1.3](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.3) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
-3. ![issueOpened] **Issue opened:** [SlimJar/slimjar#22](https://github.com/SlimJar/slimjar/issues/22)
-4. ![star] Starred [SlimJar/slimjar](https://github.com/SlimJar/slimjar)
-5. ![release] Released [v1.2.3](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.2.3) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
-6. ![release] Released [v1.1](https://github.com/Lorenzo0111/ItemFramework/releases/tag/1.1) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
-7. ![release] Released [v1.0](https://github.com/Lorenzo0111/MultiLang/releases/tag/1.0) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
-8. ![prClosed] **Pull request closed:** [TriumphTeam/gui#16](https://github.com/TriumphTeam/gui/pull/16)
-9. ![issueClosed] **Issue closed:** [TriumphTeam/gui#17](https://github.com/TriumphTeam/gui/issues/17)
-10. ![issueOpened] **Issue opened:** [harry0198/InfoHeads#24](https://github.com/harry0198/InfoHeads/issues/24)
+1. ![prOpened] **Pull request opened:** [Lorenzo0111/RocketPlaceholders#20](https://github.com/Lorenzo0111/RocketPlaceholders/pull/20)
+2. ![issueClosed] **Issue closed:** [SlimJar/slimjar#24](https://github.com/SlimJar/slimjar/issues/24)
+3. ![issueOpened] **Issue opened:** [SlimJar/slimjar#24](https://github.com/SlimJar/slimjar/issues/24)
+4. ![issueClosed] **Issue closed:** [gradle/gradle#17439](https://github.com/gradle/gradle/issues/17439)
+5. ![issueOpened] **Issue opened:** [gradle/gradle#17439](https://github.com/gradle/gradle/issues/17439)
+6. ![release] Released [v1.3.1](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.3.1) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+7. ![release] Released [v1.3](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.3) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+8. ![issueOpened] **Issue opened:** [SlimJar/slimjar#22](https://github.com/SlimJar/slimjar/issues/22)
+9. ![star] Starred [SlimJar/slimjar](https://github.com/SlimJar/slimjar)
+10. ![release] Released [v1.2.3](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.2.3) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

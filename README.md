@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 16th, 2021, 12:34:51 AM
+Last Updated: Wednesday, June 16th, 2021, 12:15:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [1.17 support](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/1.9.2) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
-2. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#20](https://github.com/Lorenzo0111/RocketPlaceholders/pull/20)
-3. ![release] Released [v1.0](https://github.com/Lorenzo0111/JShader/releases/tag/1.0) in [Lorenzo0111/JShader](https://github.com/Lorenzo0111/JShader)
-4. ![repoCreated] Created new repository [Lorenzo0111/JShader](https://github.com/Lorenzo0111/JShader)
-5. ![star] Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![prOpened] **Pull request opened:** [Lorenzo0111/RocketPlaceholders#20](https://github.com/Lorenzo0111/RocketPlaceholders/pull/20)
-7. ![issueClosed] **Issue closed:** [SlimJar/slimjar#24](https://github.com/SlimJar/slimjar/issues/24)
-8. ![issueOpened] **Issue opened:** [SlimJar/slimjar#24](https://github.com/SlimJar/slimjar/issues/24)
-9. ![issueClosed] **Issue closed:** [gradle/gradle#17439](https://github.com/gradle/gradle/issues/17439)
-10. ![issueOpened] **Issue opened:** [gradle/gradle#17439](https://github.com/gradle/gradle/issues/17439)
+1. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmoryVehicles2#12](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/12)
+2. ![star] Starred [Lorenzo0111/JShader](https://github.com/Lorenzo0111/JShader)
+3. ![release] Released [1.17 support](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/1.9.2) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#20](https://github.com/Lorenzo0111/RocketPlaceholders/pull/20)
+5. ![release] Released [v1.0](https://github.com/Lorenzo0111/JShader/releases/tag/1.0) in [Lorenzo0111/JShader](https://github.com/Lorenzo0111/JShader)
+6. ![repoCreated] Created new repository [Lorenzo0111/JShader](https://github.com/Lorenzo0111/JShader)
+7. ![star] Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![prOpened] **Pull request opened:** [Lorenzo0111/RocketPlaceholders#20](https://github.com/Lorenzo0111/RocketPlaceholders/pull/20)
+9. ![issueClosed] **Issue closed:** [SlimJar/slimjar#24](https://github.com/SlimJar/slimjar/issues/24)
+10. ![issueOpened] **Issue opened:** [SlimJar/slimjar#24](https://github.com/SlimJar/slimjar/issues/24)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

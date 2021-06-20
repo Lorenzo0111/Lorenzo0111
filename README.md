@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 19th, 2021, 12:14:42 PM
+Last Updated: Sunday, June 20th, 2021, 12:36:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [v1.1.1](https://github.com/Lorenzo0111/ItemFramework/releases/tag/1.1.1) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
-2. ![release] Released [v2.3.17](https://github.com/harry0198/InfoHeads/releases/tag/2.3.17) in [harry0198/InfoHeads](https://github.com/harry0198/InfoHeads)
-3. ![issueClosed] **Issue closed:** [harry0198/InfoHeads#24](https://github.com/harry0198/InfoHeads/issues/24)
-4. ![issueOpened] **Issue opened:** [SlimJar/slimjar#25](https://github.com/SlimJar/slimjar/issues/25)
-5. ![release] Released [v1.4](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.4) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
-6. ![release] Released [v1.3.3](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.3.3) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
-7. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmoryVehicles2#12](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/12)
-8. ![star] Starred [Lorenzo0111/JShader](https://github.com/Lorenzo0111/JShader)
-9. ![release] Released [1.17 support](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/1.9.2) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#20](https://github.com/Lorenzo0111/RocketPlaceholders/pull/20)
+1. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#7](https://github.com/Lorenzo0111/MultiLang/pull/7)
+2. ![release] Released [v1.1.1](https://github.com/Lorenzo0111/ItemFramework/releases/tag/1.1.1) in [Lorenzo0111/ItemFramework](https://github.com/Lorenzo0111/ItemFramework)
+3. ![release] Released [v2.3.17](https://github.com/harry0198/InfoHeads/releases/tag/2.3.17) in [harry0198/InfoHeads](https://github.com/harry0198/InfoHeads)
+4. ![issueClosed] **Issue closed:** [harry0198/InfoHeads#24](https://github.com/harry0198/InfoHeads/issues/24)
+5. ![issueOpened] **Issue opened:** [SlimJar/slimjar#25](https://github.com/SlimJar/slimjar/issues/25)
+6. ![release] Released [v1.4](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.4) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+7. ![release] Released [v1.3.3](https://github.com/Lorenzo0111/PluginsLib/releases/tag/1.3.3) in [Lorenzo0111/PluginsLib](https://github.com/Lorenzo0111/PluginsLib)
+8. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmoryVehicles2#12](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/12)
+9. ![star] Starred [Lorenzo0111/JShader](https://github.com/Lorenzo0111/JShader)
+10. ![release] Released [1.17 support](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/1.9.2) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

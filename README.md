@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 26th, 2021, 12:32:51 AM
+Last Updated: Saturday, June 26th, 2021, 12:15:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] **Issue closed:** [lavacord/Lavacord#103](https://github.com/lavacord/Lavacord/issues/103)
-2. ![issueOpened] **Issue opened:** [lavacord/Lavacord#103](https://github.com/lavacord/Lavacord/issues/103)
-3. ![issueOpened] **Issue opened:** [broccolai/tickets#104](https://github.com/broccolai/tickets/issues/104)
-4. ![prOpened] **Pull request opened:** [sgtcaze/NametagEdit#611](https://github.com/sgtcaze/NametagEdit/pull/611)
-5. ![fork] Forked [Lorenzo0111/NametagEdit](https://github.com/Lorenzo0111/NametagEdit) from [sgtcaze/NametagEdit](https://github.com/sgtcaze/NametagEdit)
-6. ![issueClosed] **Issue closed:** [SpiGetOrg/Spiget#37](https://github.com/SpiGetOrg/Spiget/issues/37)
-7. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#6](https://github.com/Lorenzo0111/ElectionsPlus/pull/6)
-8. ![fork] Forked [Lorenzo0111/triumph-gui](https://github.com/Lorenzo0111/triumph-gui) from [TriumphTeam/triumph-gui](https://github.com/TriumphTeam/triumph-gui)
-9. ![release] Released [v](https://github.com/FoxPowered/PluginsLib/releases/tag/2.0) in [FoxPowered/PluginsLib](https://github.com/FoxPowered/PluginsLib)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#7](https://github.com/Lorenzo0111/MultiLang/pull/7)
+1. ![issueOpened] **Issue opened:** [Lorenzo0111/RocketPlaceholders#21](https://github.com/Lorenzo0111/RocketPlaceholders/issues/21)
+2. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#28](https://github.com/harry0198/InfoHeads/pull/28)
+3. ![issueClosed] **Issue closed:** [lavacord/Lavacord#103](https://github.com/lavacord/Lavacord/issues/103)
+4. ![issueOpened] **Issue opened:** [lavacord/Lavacord#103](https://github.com/lavacord/Lavacord/issues/103)
+5. ![issueOpened] **Issue opened:** [broccolai/tickets#104](https://github.com/broccolai/tickets/issues/104)
+6. ![prOpened] **Pull request opened:** [sgtcaze/NametagEdit#611](https://github.com/sgtcaze/NametagEdit/pull/611)
+7. ![fork] Forked [Lorenzo0111/NametagEdit](https://github.com/Lorenzo0111/NametagEdit) from [sgtcaze/NametagEdit](https://github.com/sgtcaze/NametagEdit)
+8. ![issueClosed] **Issue closed:** [SpiGetOrg/Spiget#37](https://github.com/SpiGetOrg/Spiget/issues/37)
+9. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#6](https://github.com/Lorenzo0111/ElectionsPlus/pull/6)
+10. ![fork] Forked [Lorenzo0111/triumph-gui](https://github.com/Lorenzo0111/triumph-gui) from [TriumphTeam/triumph-gui](https://github.com/TriumphTeam/triumph-gui)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

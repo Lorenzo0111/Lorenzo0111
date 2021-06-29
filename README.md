@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 28th, 2021, 12:16:14 PM
+Last Updated: Tuesday, June 29th, 2021, 12:34:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [Lorenzo0111/PyPaste](https://github.com/Lorenzo0111/PyPaste)
-2. ![prOpened] **Pull request opened:** [ZombieStriker/QualityArmory#139](https://github.com/ZombieStriker/QualityArmory/pull/139)
-3. ![fork] Forked [Lorenzo0111/QualityArmory](https://github.com/Lorenzo0111/QualityArmory) from [ZombieStriker/QualityArmory](https://github.com/ZombieStriker/QualityArmory)
-4. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmoryVehicles2#14](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/14)
-5. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#12](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/12)
-6. ![star] Starred [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
-7. ![issueOpened] **Issue opened:** [Lorenzo0111/RocketPlaceholders#21](https://github.com/Lorenzo0111/RocketPlaceholders/issues/21)
-8. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#28](https://github.com/harry0198/InfoHeads/pull/28)
-9. ![issueClosed] **Issue closed:** [lavacord/Lavacord#103](https://github.com/lavacord/Lavacord/issues/103)
-10. ![issueOpened] **Issue opened:** [lavacord/Lavacord#103](https://github.com/lavacord/Lavacord/issues/103)
+1. ![release] Released [v1.2](https://github.com/Lorenzo0111/ElectionsPlus/releases/tag/1.2) in [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
+2. ![repoCreated] Created new repository [Lorenzo0111/PyPaste](https://github.com/Lorenzo0111/PyPaste)
+3. ![prOpened] **Pull request opened:** [ZombieStriker/QualityArmory#139](https://github.com/ZombieStriker/QualityArmory/pull/139)
+4. ![fork] Forked [Lorenzo0111/QualityArmory](https://github.com/Lorenzo0111/QualityArmory) from [ZombieStriker/QualityArmory](https://github.com/ZombieStriker/QualityArmory)
+5. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmoryVehicles2#14](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/14)
+6. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#12](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/12)
+7. ![star] Starred [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
+8. ![issueOpened] **Issue opened:** [Lorenzo0111/RocketPlaceholders#21](https://github.com/Lorenzo0111/RocketPlaceholders/issues/21)
+9. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#28](https://github.com/harry0198/InfoHeads/pull/28)
+10. ![issueClosed] **Issue closed:** [lavacord/Lavacord#103](https://github.com/lavacord/Lavacord/issues/103)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

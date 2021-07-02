@@ -4,6 +4,13 @@ settings:
   max_lines: 10
   url_text: "{REPO}{ID}"
   commit_name: "ReadMe Updater"
+  whitelisted_events:
+    - comments
+    - create_repo
+    - issues
+    - member
+    - pr
+    - release
 messages:
   comments: "![comment] **Commented:** {URL}"
   issue_opened: "![issueOpened] **Issue opened:** {URL}"

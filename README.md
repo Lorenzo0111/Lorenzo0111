@@ -2,14 +2,6 @@
 
 I'm a **Java Developer**.
 
-## Here are my main minecraft projects
-
-**[RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)** » Custom placeholders
-
-**[RocketJoin](https://github.com/Lorenzo0111/RocketJoin)** » Custom join messages with a lot of functions
-
-[![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)
-
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
@@ -28,6 +20,9 @@ Last Updated: Friday, July 2nd, 2021, 2:09:09 PM
 9. ![prOpened] **Pull request opened:** [Lorenzo0111/NametagEdit#1](https://github.com/Lorenzo0111/NametagEdit/pull/1)
 10. ![issueOpened] **Issue opened:** [Lorenzo0111/RocketPlaceholders#22](https://github.com/Lorenzo0111/RocketPlaceholders/issues/22)
 <!--RECENT_ACTIVITY:end-->
+
+[![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzo0111&layout=compact)
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
 [issueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosedOld.svg

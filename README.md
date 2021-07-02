@@ -13,20 +13,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 1st, 2021, 12:16:55 PM
+Last Updated: Friday, July 2nd, 2021, 12:34:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prClosed] **Pull request closed:** [Lorenzo0111/NametagEdit#1](https://github.com/Lorenzo0111/NametagEdit/pull/1)
-2. ![prOpened] **Pull request opened:** [Lorenzo0111/NametagEdit#1](https://github.com/Lorenzo0111/NametagEdit/pull/1)
-3. ![issueOpened] **Issue opened:** [Lorenzo0111/RocketPlaceholders#22](https://github.com/Lorenzo0111/RocketPlaceholders/issues/22)
-4. ![release] Released [Vanish Support & Welcome Message](https://github.com/Lorenzo0111/RocketJoin/releases/tag/1.9.3) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
-5. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#2](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/2)
-6. ![release] Released [v1.2](https://github.com/Lorenzo0111/ElectionsPlus/releases/tag/1.2) in [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
-7. ![repoCreated] Created new repository [Lorenzo0111/PyPaste](https://github.com/Lorenzo0111/PyPaste)
-8. ![prOpened] **Pull request opened:** [ZombieStriker/QualityArmory#139](https://github.com/ZombieStriker/QualityArmory/pull/139)
-9. ![fork] Forked [Lorenzo0111/QualityArmory](https://github.com/Lorenzo0111/QualityArmory) from [ZombieStriker/QualityArmory](https://github.com/ZombieStriker/QualityArmory)
-10. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmoryVehicles2#14](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/14)
+1. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#17](https://github.com/Lorenzo0111/RocketJoin/pull/17)
+2. ![prOpened] **Pull request opened:** [Lorenzo0111/RocketJoin#17](https://github.com/Lorenzo0111/RocketJoin/pull/17)
+3. ![prClosed] **Pull request closed:** [Lorenzo0111/NametagEdit#1](https://github.com/Lorenzo0111/NametagEdit/pull/1)
+4. ![prOpened] **Pull request opened:** [Lorenzo0111/NametagEdit#1](https://github.com/Lorenzo0111/NametagEdit/pull/1)
+5. ![issueOpened] **Issue opened:** [Lorenzo0111/RocketPlaceholders#22](https://github.com/Lorenzo0111/RocketPlaceholders/issues/22)
+6. ![release] Released [Vanish Support & Welcome Message](https://github.com/Lorenzo0111/RocketJoin/releases/tag/1.9.3) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
+7. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#2](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/2)
+8. ![release] Released [v1.2](https://github.com/Lorenzo0111/ElectionsPlus/releases/tag/1.2) in [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
+9. ![repoCreated] Created new repository [Lorenzo0111/PyPaste](https://github.com/Lorenzo0111/PyPaste)
+10. ![prOpened] **Pull request opened:** [ZombieStriker/QualityArmory#139](https://github.com/ZombieStriker/QualityArmory/pull/139)
 <!--RECENT_ACTIVITY:end-->
 
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg

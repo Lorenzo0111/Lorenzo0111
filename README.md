@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 3rd, 2021, 12:15:19 PM
+Last Updated: Sunday, July 4th, 2021, 12:35:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [v1.1](https://github.com/Lorenzo0111/JShader/releases/tag/1.1) in [Lorenzo0111/JShader](https://github.com/Lorenzo0111/JShader)
-2. ![prMerged] **Pull request merged:** [Lorenzo0111/JShader#1](https://github.com/Lorenzo0111/JShader/pull/1)
-3. ![comment] **Commented:** [Lorenzo0111/Lorenzo0111#7](https://github.com/Lorenzo0111/Lorenzo0111/pull/7#issuecomment-873023914)
-4. ![issueOpened] **Issue opened:** [SpiGetOrg/Spiget#38](https://github.com/SpiGetOrg/Spiget/issues/38)
-5. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#17](https://github.com/Lorenzo0111/RocketJoin/pull/17)
-6. ![prOpened] **Pull request opened:** [Lorenzo0111/RocketJoin#17](https://github.com/Lorenzo0111/RocketJoin/pull/17)
-7. ![comment] **Commented:** [Lorenzo0111/MultiLang#10](https://github.com/Lorenzo0111/MultiLang/pull/10#issuecomment-872330201)
-8. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#10](https://github.com/Lorenzo0111/ElectionsPlus/pull/10#issuecomment-872267970)
-9. ![comment] **Commented:** [sgtcaze/NametagEdit#611](https://github.com/sgtcaze/NametagEdit/pull/611#issuecomment-872162280)
-10. ![prClosed] **Pull request closed:** [Lorenzo0111/NametagEdit#1](https://github.com/Lorenzo0111/NametagEdit/pull/1)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#13](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/13#issuecomment-873464629)
+2. ![release] Released [v1.1](https://github.com/Lorenzo0111/JShader/releases/tag/1.1) in [Lorenzo0111/JShader](https://github.com/Lorenzo0111/JShader)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/JShader#1](https://github.com/Lorenzo0111/JShader/pull/1)
+4. ![comment] **Commented:** [Lorenzo0111/Lorenzo0111#7](https://github.com/Lorenzo0111/Lorenzo0111/pull/7#issuecomment-873023914)
+5. ![issueOpened] **Issue opened:** [SpiGetOrg/Spiget#38](https://github.com/SpiGetOrg/Spiget/issues/38)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#17](https://github.com/Lorenzo0111/RocketJoin/pull/17)
+7. ![prOpened] **Pull request opened:** [Lorenzo0111/RocketJoin#17](https://github.com/Lorenzo0111/RocketJoin/pull/17)
+8. ![comment] **Commented:** [Lorenzo0111/MultiLang#10](https://github.com/Lorenzo0111/MultiLang/pull/10#issuecomment-872330201)
+9. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#10](https://github.com/Lorenzo0111/ElectionsPlus/pull/10#issuecomment-872267970)
+10. ![comment] **Commented:** [sgtcaze/NametagEdit#611](https://github.com/sgtcaze/NametagEdit/pull/611#issuecomment-872162280)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

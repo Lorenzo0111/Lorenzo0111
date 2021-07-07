@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 6th, 2021, 12:15:55 PM
+Last Updated: Wednesday, July 7th, 2021, 12:35:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [Lorenzo0111/MultiLang#12](https://github.com/Lorenzo0111/MultiLang/issues/12)
-2. ![comment] **Commented:** [harry0198/InfoHeads#29](https://github.com/harry0198/InfoHeads/pull/29#issuecomment-874484713)
-3. ![comment] **Commented:** [Lorenzo0111/JShader#2](https://github.com/Lorenzo0111/JShader/pull/2#issuecomment-874279302)
-4. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketJoin#18](https://github.com/Lorenzo0111/RocketJoin/issues/18)
-5. ![comment] **Commented:** [sgtcaze/NametagEdit#620](https://github.com/sgtcaze/NametagEdit/issues/620#issuecomment-874124543)
-6. ![prOpened] **Pull request opened:** [sgtcaze/NametagEdit#622](https://github.com/sgtcaze/NametagEdit/pull/622)
-7. ![comment] **Commented:** [sgtcaze/NametagEdit#621](https://github.com/sgtcaze/NametagEdit/issues/621#issuecomment-874019981)
-8. ![prOpened] **Pull request opened:** [lucko/bytebin#10](https://github.com/lucko/bytebin/pull/10)
-9. ![prOpened] **Pull request opened:** [HangarMC/Hangar#534](https://github.com/HangarMC/Hangar/pull/534)
-10. ![comment] **Commented:** [sgtcaze/NametagEdit#620](https://github.com/sgtcaze/NametagEdit/issues/620#issuecomment-873837781)
+1. ![comment] **Commented:** [Lorenzo0111/JShader#3](https://github.com/Lorenzo0111/JShader/pull/3#issuecomment-874925537)
+2. ![comment] **Commented:** [sgtcaze/NametagEdit#621](https://github.com/sgtcaze/NametagEdit/issues/621#issuecomment-874925379)
+3. ![comment] **Commented:** [Lorenzo0111/RocketJoin#19](https://github.com/Lorenzo0111/RocketJoin/pull/19#issuecomment-874878087)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#11](https://github.com/Lorenzo0111/ElectionsPlus/pull/11)
+5. ![prClosed] **Pull request closed:** [Lorenzo0111/RocketJoin#12](https://github.com/Lorenzo0111/RocketJoin/pull/12)
+6. ![comment] **Commented:** [Lorenzo0111/RocketJoin#19](https://github.com/Lorenzo0111/RocketJoin/pull/19#issuecomment-874876322)
+7. ![issueClosed] **Issue closed:** [Lorenzo0111/MultiLang#12](https://github.com/Lorenzo0111/MultiLang/issues/12)
+8. ![comment] **Commented:** [Lorenzo0111/MultiLang#12](https://github.com/Lorenzo0111/MultiLang/issues/12#issuecomment-874860676)
+9. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#8](https://github.com/Lorenzo0111/MultiLang/pull/8)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#11](https://github.com/Lorenzo0111/MultiLang/pull/11)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

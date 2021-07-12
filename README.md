@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 11th, 2021, 12:15:08 PM
+Last Updated: Monday, July 12th, 2021, 12:34:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [Lorenzo0111/HangarUpdater](https://github.com/Lorenzo0111/HangarUpdater)
-2. ![comment] **Commented:** [RocketPluginsMC/RocketPlaceholdersAPI-Cookbook#3](https://github.com/RocketPluginsMC/RocketPlaceholdersAPI-Cookbook/pull/3#issuecomment-877761456)
-3. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#23](https://github.com/Lorenzo0111/RocketPlaceholders/pull/23)
-4. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#23](https://github.com/Lorenzo0111/RocketPlaceholders/pull/23#discussion_r667442304)
-5. ![prOpened] **Pull request opened:** [Lorenzo0111/RocketPlaceholders#23](https://github.com/Lorenzo0111/RocketPlaceholders/pull/23)
-6. ![prOpened] **Pull request opened:** [PaperMC/Waterfall#669](https://github.com/PaperMC/Waterfall/pull/669)
-7. ![comment] **Commented:** [sgtcaze/NametagEdit#626](https://github.com/sgtcaze/NametagEdit/issues/626#issuecomment-877187193)
-8. ![comment] **Commented:** [sgtcaze/NametagEdit#626](https://github.com/sgtcaze/NametagEdit/issues/626#issuecomment-877166311)
-9. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#13](https://github.com/Lorenzo0111/DownloadTracker/pull/13#issuecomment-876957359)
-10. ![release] Released [RocketJoin 2.0 - The most important update](https://github.com/Lorenzo0111/RocketJoin/releases/tag/2.0) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
+1. ![comment] **Commented:** [sgtcaze/NametagEdit#622](https://github.com/sgtcaze/NametagEdit/pull/622#issuecomment-877843609)
+2. ![issueOpened] **Issue opened:** [Lorenzo0111/NametagEditor#1](https://github.com/Lorenzo0111/NametagEditor/issues/1)
+3. ![comment] **Commented:** [sgtcaze/NametagEdit#622](https://github.com/sgtcaze/NametagEdit/pull/622#issuecomment-877842673)
+4. ![issueOpened] **Issue opened:** [Lorenzo0111/HangarUpdater#1](https://github.com/Lorenzo0111/HangarUpdater/issues/1)
+5. ![repoCreated] Created new repository [Lorenzo0111/HangarUpdater](https://github.com/Lorenzo0111/HangarUpdater)
+6. ![comment] **Commented:** [RocketPluginsMC/RocketPlaceholdersAPI-Cookbook#3](https://github.com/RocketPluginsMC/RocketPlaceholdersAPI-Cookbook/pull/3#issuecomment-877761456)
+7. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#23](https://github.com/Lorenzo0111/RocketPlaceholders/pull/23)
+8. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#23](https://github.com/Lorenzo0111/RocketPlaceholders/pull/23#discussion_r667442304)
+9. ![prOpened] **Pull request opened:** [Lorenzo0111/RocketPlaceholders#23](https://github.com/Lorenzo0111/RocketPlaceholders/pull/23)
+10. ![prOpened] **Pull request opened:** [PaperMC/Waterfall#669](https://github.com/PaperMC/Waterfall/pull/669)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

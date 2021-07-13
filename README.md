@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 13th, 2021, 12:37:17 AM
+Last Updated: Tuesday, July 13th, 2021, 12:17:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#12](https://github.com/Lorenzo0111/ElectionsPlus/pull/12#issuecomment-878459073)
-2. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#12](https://github.com/Lorenzo0111/ElectionsPlus/pull/12#issuecomment-878458426)
-3. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#13](https://github.com/Lorenzo0111/ElectionsPlus/pull/13)
-4. ![comment] **Commented:** [Lorenzo0111/MultiLang#13](https://github.com/Lorenzo0111/MultiLang/pull/13#issuecomment-878457658)
-5. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#15](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/15#issuecomment-878159355)
-6. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#24](https://github.com/Lorenzo0111/RocketPlaceholders/pull/24#issuecomment-878076781)
-7. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#14](https://github.com/Lorenzo0111/DownloadTracker/pull/14#issuecomment-878076756)
-8. ![comment] **Commented:** [Lorenzo0111/RocketJoin#22](https://github.com/Lorenzo0111/RocketJoin/pull/22#issuecomment-878076645)
-9. ![comment] **Commented:** [sgtcaze/NametagEdit#622](https://github.com/sgtcaze/NametagEdit/pull/622#issuecomment-877843609)
-10. ![issueOpened] **Issue opened:** [Lorenzo0111/NametagEditor#1](https://github.com/Lorenzo0111/NametagEditor/issues/1)
+1. ![repoCreated] Created new repository [Lorenzo0111/Locky](https://github.com/Lorenzo0111/Locky)
+2. ![release] Released [First Prerelease](https://github.com/Lorenzo0111/HangarUpdater/releases/tag/1.0-SNAPSHOT) in [Lorenzo0111/HangarUpdater](https://github.com/Lorenzo0111/HangarUpdater)
+3. ![issueOpened] **Issue opened:** [Lorenzo0111/DownloadTracker#15](https://github.com/Lorenzo0111/DownloadTracker/issues/15)
+4. ![repoCreated] Created new repository [Lorenzo0111/BedwarsPractice](https://github.com/Lorenzo0111/BedwarsPractice)
+5. ![comment] **Commented:** [RocketPluginsMC/RocketPlaceholdersAPI-Cookbook#4](https://github.com/RocketPluginsMC/RocketPlaceholdersAPI-Cookbook/pull/4#issuecomment-878807157)
+6. ![comment] **Commented:** [RocketPluginsMC/RocketPlaceholdersAPI-Cookbook#4](https://github.com/RocketPluginsMC/RocketPlaceholdersAPI-Cookbook/pull/4#issuecomment-878807066)
+7. ![comment] **Commented:** [harry0198/InfoHeads#31](https://github.com/harry0198/InfoHeads/pull/31#issuecomment-878806942)
+8. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#12](https://github.com/Lorenzo0111/ElectionsPlus/pull/12#issuecomment-878459073)
+9. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#12](https://github.com/Lorenzo0111/ElectionsPlus/pull/12#issuecomment-878458426)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#13](https://github.com/Lorenzo0111/ElectionsPlus/pull/13)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

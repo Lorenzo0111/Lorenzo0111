@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 15th, 2021, 12:16:23 PM
+Last Updated: Friday, July 16th, 2021, 12:36:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#12](https://github.com/Lorenzo0111/ElectionsPlus/pull/12)
-2. ![issueClosed] **Issue closed:** [Lorenzo0111/Lorenzo0111#8](https://github.com/Lorenzo0111/Lorenzo0111/issues/8)
-3. ![comment] **Commented:** [Lorenzo0111/MultiLang#14](https://github.com/Lorenzo0111/MultiLang/pull/14#issuecomment-880133939)
-4. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#14](https://github.com/Lorenzo0111/ElectionsPlus/pull/14)
-5. ![comment] **Commented:** [sgtcaze/NametagEdit#627](https://github.com/sgtcaze/NametagEdit/issues/627#issuecomment-880133734)
-6. ![comment] **Commented:** [Lorenzo0111/Lorenzo0111#8](https://github.com/Lorenzo0111/Lorenzo0111/issues/8#issuecomment-879706799)
-7. ![repoCreated] Created new repository [Lorenzo0111/Locky](https://github.com/Lorenzo0111/Locky)
-8. ![release] Released [First Prerelease](https://github.com/Lorenzo0111/HangarUpdater/releases/tag/1.0-SNAPSHOT) in [Lorenzo0111/HangarUpdater](https://github.com/Lorenzo0111/HangarUpdater)
-9. ![issueOpened] **Issue opened:** [Lorenzo0111/DownloadTracker#15](https://github.com/Lorenzo0111/DownloadTracker/issues/15)
-10. ![repoCreated] Created new repository [Lorenzo0111/BedwarsPractice](https://github.com/Lorenzo0111/BedwarsPractice)
+1. ![comment] **Commented:** [sgtcaze/NametagEdit#621](https://github.com/sgtcaze/NametagEdit/issues/621#issuecomment-880926461)
+2. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketPlaceholders#21](https://github.com/Lorenzo0111/RocketPlaceholders/issues/21)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#12](https://github.com/Lorenzo0111/ElectionsPlus/pull/12)
+4. ![issueClosed] **Issue closed:** [Lorenzo0111/Lorenzo0111#8](https://github.com/Lorenzo0111/Lorenzo0111/issues/8)
+5. ![comment] **Commented:** [Lorenzo0111/MultiLang#14](https://github.com/Lorenzo0111/MultiLang/pull/14#issuecomment-880133939)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#14](https://github.com/Lorenzo0111/ElectionsPlus/pull/14)
+7. ![comment] **Commented:** [sgtcaze/NametagEdit#627](https://github.com/sgtcaze/NametagEdit/issues/627#issuecomment-880133734)
+8. ![comment] **Commented:** [Lorenzo0111/Lorenzo0111#8](https://github.com/Lorenzo0111/Lorenzo0111/issues/8#issuecomment-879706799)
+9. ![repoCreated] Created new repository [Lorenzo0111/Locky](https://github.com/Lorenzo0111/Locky)
+10. ![release] Released [First Prerelease](https://github.com/Lorenzo0111/HangarUpdater/releases/tag/1.0-SNAPSHOT) in [Lorenzo0111/HangarUpdater](https://github.com/Lorenzo0111/HangarUpdater)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

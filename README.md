@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 20th, 2021, 12:16:18 PM
+Last Updated: Wednesday, July 21st, 2021, 12:37:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [sgtcaze/NametagEdit#628](https://github.com/sgtcaze/NametagEdit/issues/628#issuecomment-882771239)
-2. ![comment] **Commented:** [Lorenzo0111/NodeBin#14](https://github.com/Lorenzo0111/NodeBin/pull/14#issuecomment-882251805)
-3. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#16](https://github.com/Lorenzo0111/DownloadTracker/pull/16#issuecomment-882251539)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#13](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/13#issuecomment-881872176)
-5. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#13](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/13#issuecomment-881869342)
-6. ![release] Released [v1.3](https://github.com/Lorenzo0111/ElectionsPlus/releases/tag/1.3) in [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
-7. ![comment] **Commented:** [sgtcaze/NametagEdit#627](https://github.com/sgtcaze/NametagEdit/issues/627#issuecomment-881663931)
-8. ![release] Released [v1.3](https://github.com/Lorenzo0111/MultiLang/releases/tag/1.3) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
-9. ![release] Released [v2.0 APLHA 1](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/2.0-ALPHA) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
-10. ![comment] **Commented:** [slimjar/slimjar#38](https://github.com/slimjar/slimjar/issues/38#issuecomment-881497590)
+1. ![comment] **Commented:** [sgtcaze/NametagEdit#629](https://github.com/sgtcaze/NametagEdit/issues/629#issuecomment-883630485)
+2. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#25](https://github.com/Lorenzo0111/RocketPlaceholders/pull/25#issuecomment-883402491)
+3. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#15](https://github.com/Lorenzo0111/ElectionsPlus/pull/15#issuecomment-883402237)
+4. ![comment] **Commented:** [sgtcaze/NametagEdit#628](https://github.com/sgtcaze/NametagEdit/issues/628#issuecomment-882771239)
+5. ![comment] **Commented:** [Lorenzo0111/NodeBin#14](https://github.com/Lorenzo0111/NodeBin/pull/14#issuecomment-882251805)
+6. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#16](https://github.com/Lorenzo0111/DownloadTracker/pull/16#issuecomment-882251539)
+7. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#13](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/13#issuecomment-881872176)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#13](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/13#issuecomment-881869342)
+9. ![release] Released [v1.3](https://github.com/Lorenzo0111/ElectionsPlus/releases/tag/1.3) in [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
+10. ![comment] **Commented:** [sgtcaze/NametagEdit#627](https://github.com/sgtcaze/NametagEdit/issues/627#issuecomment-881663931)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

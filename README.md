@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 30th, 2021, 12:35:56 AM
+Last Updated: Friday, July 30th, 2021, 12:16:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [SpigotMC/XenforoResourceManagerAPI#56](https://github.com/SpigotMC/XenforoResourceManagerAPI/issues/56#issuecomment-889444132)
-2. ![issueOpened] **Issue opened:** [CryptoMorin/XSeries#131](https://github.com/CryptoMorin/XSeries/issues/131)
-3. ![issueOpened] **Issue opened:** [SpigotMC/XenforoResourceManagerAPI#56](https://github.com/SpigotMC/XenforoResourceManagerAPI/issues/56)
-4. ![comment] **Commented:** [Lorenzo0111/MultiLang#18](https://github.com/Lorenzo0111/MultiLang/pull/18#issuecomment-889230590)
-5. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#21](https://github.com/Lorenzo0111/ElectionsPlus/pull/21#issuecomment-889134261)
-6. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#17](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/17#issuecomment-889046747)
-7. ![comment] **Commented:** [sgtcaze/NametagEdit#631](https://github.com/sgtcaze/NametagEdit/issues/631#issuecomment-888949124)
-8. ![comment] **Commented:** [Lorenzo0111/NodeBin#15](https://github.com/Lorenzo0111/NodeBin/pull/15#issuecomment-888942120)
-9. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#28](https://github.com/Lorenzo0111/RocketPlaceholders/pull/28#issuecomment-888942070)
-10. ![issueClosed] **Issue closed:** [Lorenzo0111/ElectionsPlus#17](https://github.com/Lorenzo0111/ElectionsPlus/issues/17)
+1. ![repoCreated] Created new repository [Lorenzo0111/AgeableMaterial](https://github.com/Lorenzo0111/AgeableMaterial)
+2. ![issueClosed] **Issue closed:** [CryptoMorin/XSeries#131](https://github.com/CryptoMorin/XSeries/issues/131)
+3. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#19](https://github.com/Lorenzo0111/DownloadTracker/pull/19#issuecomment-889678384)
+4. ![comment] **Commented:** [harry0198/InfoHeads#32](https://github.com/harry0198/InfoHeads/pull/32#issuecomment-889678245)
+5. ![comment] **Commented:** [SpigotMC/XenforoResourceManagerAPI#56](https://github.com/SpigotMC/XenforoResourceManagerAPI/issues/56#issuecomment-889444132)
+6. ![issueOpened] **Issue opened:** [CryptoMorin/XSeries#131](https://github.com/CryptoMorin/XSeries/issues/131)
+7. ![issueOpened] **Issue opened:** [SpigotMC/XenforoResourceManagerAPI#56](https://github.com/SpigotMC/XenforoResourceManagerAPI/issues/56)
+8. ![comment] **Commented:** [Lorenzo0111/MultiLang#18](https://github.com/Lorenzo0111/MultiLang/pull/18#issuecomment-889230590)
+9. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#21](https://github.com/Lorenzo0111/ElectionsPlus/pull/21#issuecomment-889134261)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#17](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/17#issuecomment-889046747)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 1st, 2021, 12:15:28 PM
+Last Updated: Monday, August 2nd, 2021, 12:35:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [CryptoMorin/XSeries#131](https://github.com/CryptoMorin/XSeries/issues/131#issuecomment-890300968)
-2. ![repoCreated] Created new repository [Lorenzo0111/AgeableMaterial](https://github.com/Lorenzo0111/AgeableMaterial)
-3. ![issueClosed] **Issue closed:** [CryptoMorin/XSeries#131](https://github.com/CryptoMorin/XSeries/issues/131)
-4. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#19](https://github.com/Lorenzo0111/DownloadTracker/pull/19#issuecomment-889678384)
-5. ![comment] **Commented:** [harry0198/InfoHeads#32](https://github.com/harry0198/InfoHeads/pull/32#issuecomment-889678245)
-6. ![comment] **Commented:** [SpigotMC/XenforoResourceManagerAPI#56](https://github.com/SpigotMC/XenforoResourceManagerAPI/issues/56#issuecomment-889444132)
-7. ![issueOpened] **Issue opened:** [CryptoMorin/XSeries#131](https://github.com/CryptoMorin/XSeries/issues/131)
-8. ![issueOpened] **Issue opened:** [SpigotMC/XenforoResourceManagerAPI#56](https://github.com/SpigotMC/XenforoResourceManagerAPI/issues/56)
-9. ![comment] **Commented:** [Lorenzo0111/MultiLang#18](https://github.com/Lorenzo0111/MultiLang/pull/18#issuecomment-889230590)
-10. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#21](https://github.com/Lorenzo0111/ElectionsPlus/pull/21#issuecomment-889134261)
+1. ![issueOpened] **Issue opened:** [AlessioDP/Parties#138](https://github.com/AlessioDP/Parties/issues/138)
+2. ![comment] **Commented:** [CryptoMorin/XSeries#131](https://github.com/CryptoMorin/XSeries/issues/131#issuecomment-890300968)
+3. ![repoCreated] Created new repository [Lorenzo0111/AgeableMaterial](https://github.com/Lorenzo0111/AgeableMaterial)
+4. ![issueClosed] **Issue closed:** [CryptoMorin/XSeries#131](https://github.com/CryptoMorin/XSeries/issues/131)
+5. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#19](https://github.com/Lorenzo0111/DownloadTracker/pull/19#issuecomment-889678384)
+6. ![comment] **Commented:** [harry0198/InfoHeads#32](https://github.com/harry0198/InfoHeads/pull/32#issuecomment-889678245)
+7. ![comment] **Commented:** [SpigotMC/XenforoResourceManagerAPI#56](https://github.com/SpigotMC/XenforoResourceManagerAPI/issues/56#issuecomment-889444132)
+8. ![issueOpened] **Issue opened:** [CryptoMorin/XSeries#131](https://github.com/CryptoMorin/XSeries/issues/131)
+9. ![issueOpened] **Issue opened:** [SpigotMC/XenforoResourceManagerAPI#56](https://github.com/SpigotMC/XenforoResourceManagerAPI/issues/56)
+10. ![comment] **Commented:** [Lorenzo0111/MultiLang#18](https://github.com/Lorenzo0111/MultiLang/pull/18#issuecomment-889230590)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

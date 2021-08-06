@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 5th, 2021, 12:16:44 PM
+Last Updated: Friday, August 6th, 2021, 12:37:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] **Issue closed:** [Lorenzo0111/ElectionsPlus#24](https://github.com/Lorenzo0111/ElectionsPlus/issues/24)
-2. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#24](https://github.com/Lorenzo0111/ElectionsPlus/issues/24#issuecomment-892904731)
-3. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#24](https://github.com/Lorenzo0111/ElectionsPlus/issues/24#issuecomment-892765358)
-4. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#24](https://github.com/Lorenzo0111/ElectionsPlus/issues/24#issuecomment-892765032)
-5. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#24](https://github.com/Lorenzo0111/ElectionsPlus/issues/24#issuecomment-892764621)
-6. ![comment] **Commented:** [ZombieStriker/QualityArmory#146](https://github.com/ZombieStriker/QualityArmory/issues/146#issuecomment-892738839)
-7. ![comment] **Commented:** [ZombieStriker/QualityArmory#146](https://github.com/ZombieStriker/QualityArmory/issues/146#issuecomment-892733285)
-8. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#21](https://github.com/Lorenzo0111/DownloadTracker/pull/21#issuecomment-892627701)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#17](https://github.com/Lorenzo0111/MultiLang/pull/17)
-10. ![comment] **Commented:** [Lorenzo0111/MultiLang#17](https://github.com/Lorenzo0111/MultiLang/pull/17#issuecomment-891947907)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#16](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/16#issuecomment-893520592)
+2. ![issueClosed] **Issue closed:** [Lorenzo0111/ElectionsPlus#25](https://github.com/Lorenzo0111/ElectionsPlus/issues/25)
+3. ![issueClosed] **Issue closed:** [Lorenzo0111/ElectionsPlus#24](https://github.com/Lorenzo0111/ElectionsPlus/issues/24)
+4. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#24](https://github.com/Lorenzo0111/ElectionsPlus/issues/24#issuecomment-892904731)
+5. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#24](https://github.com/Lorenzo0111/ElectionsPlus/issues/24#issuecomment-892765358)
+6. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#24](https://github.com/Lorenzo0111/ElectionsPlus/issues/24#issuecomment-892765032)
+7. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#24](https://github.com/Lorenzo0111/ElectionsPlus/issues/24#issuecomment-892764621)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmory#146](https://github.com/ZombieStriker/QualityArmory/issues/146#issuecomment-892738839)
+9. ![comment] **Commented:** [ZombieStriker/QualityArmory#146](https://github.com/ZombieStriker/QualityArmory/issues/146#issuecomment-892733285)
+10. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#21](https://github.com/Lorenzo0111/DownloadTracker/pull/21#issuecomment-892627701)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

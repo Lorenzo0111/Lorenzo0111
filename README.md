@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 13th, 2021, 12:36:34 AM
+Last Updated: Friday, August 13th, 2021, 12:16:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [Lorenzo0111/JShader#4](https://github.com/Lorenzo0111/JShader/pull/4#issuecomment-897870465)
-2. ![issueClosed] **Issue closed:** [Fernthedev/FernAPI#101](https://github.com/Fernthedev/FernAPI/issues/101)
-3. ![comment] **Commented:** [Fernthedev/FernAPI#101](https://github.com/Fernthedev/FernAPI/issues/101#issuecomment-897690922)
-4. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#27](https://github.com/Lorenzo0111/ElectionsPlus/pull/27)
-5. ![release] Released [v1.0 - First Stable Release](https://github.com/Lorenzo0111/NodeBin/releases/tag/1.0) in [Lorenzo0111/NodeBin](https://github.com/Lorenzo0111/NodeBin)
-6. ![comment] **Commented:** [Lorenzo0111/NodeBin#18](https://github.com/Lorenzo0111/NodeBin/pull/18#issuecomment-897609349)
-7. ![issueOpened] **Issue opened:** [Fernthedev/FernAPI#101](https://github.com/Fernthedev/FernAPI/issues/101)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#17](https://github.com/Lorenzo0111/NodeBin/pull/17)
-9. ![comment] **Commented:** [Lorenzo0111/Lorenzo0111#9](https://github.com/Lorenzo0111/Lorenzo0111/pull/9#issuecomment-895224301)
-10. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#20](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/20)
+1. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#25](https://github.com/Lorenzo0111/RocketJoin/pull/25)
+2. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#30](https://github.com/Lorenzo0111/RocketPlaceholders/pull/30)
+3. ![comment] **Commented:** [Lorenzo0111/JShader#4](https://github.com/Lorenzo0111/JShader/pull/4#issuecomment-897870465)
+4. ![issueClosed] **Issue closed:** [Fernthedev/FernAPI#101](https://github.com/Fernthedev/FernAPI/issues/101)
+5. ![comment] **Commented:** [Fernthedev/FernAPI#101](https://github.com/Fernthedev/FernAPI/issues/101#issuecomment-897690922)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#27](https://github.com/Lorenzo0111/ElectionsPlus/pull/27)
+7. ![release] Released [v1.0 - First Stable Release](https://github.com/Lorenzo0111/NodeBin/releases/tag/1.0) in [Lorenzo0111/NodeBin](https://github.com/Lorenzo0111/NodeBin)
+8. ![comment] **Commented:** [Lorenzo0111/NodeBin#18](https://github.com/Lorenzo0111/NodeBin/pull/18#issuecomment-897609349)
+9. ![issueOpened] **Issue opened:** [Fernthedev/FernAPI#101](https://github.com/Fernthedev/FernAPI/issues/101)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#17](https://github.com/Lorenzo0111/NodeBin/pull/17)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

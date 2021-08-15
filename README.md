@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 15th, 2021, 12:35:28 AM
+Last Updated: Sunday, August 15th, 2021, 12:15:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#16](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/16#issuecomment-898884003)
-2. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#21](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/21#issuecomment-898883890)
-3. ![release] Released [v2.1.1](https://github.com/Lorenzo0111/RocketJoin/releases/tag/2.1.1) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
-4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#25](https://github.com/Lorenzo0111/RocketJoin/pull/25)
-5. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#30](https://github.com/Lorenzo0111/RocketPlaceholders/pull/30)
-6. ![comment] **Commented:** [Lorenzo0111/JShader#4](https://github.com/Lorenzo0111/JShader/pull/4#issuecomment-897870465)
-7. ![issueClosed] **Issue closed:** [Fernthedev/FernAPI#101](https://github.com/Fernthedev/FernAPI/issues/101)
-8. ![comment] **Commented:** [Fernthedev/FernAPI#101](https://github.com/Fernthedev/FernAPI/issues/101#issuecomment-897690922)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#27](https://github.com/Lorenzo0111/ElectionsPlus/pull/27)
-10. ![release] Released [v1.0 - First Stable Release](https://github.com/Lorenzo0111/NodeBin/releases/tag/1.0) in [Lorenzo0111/NodeBin](https://github.com/Lorenzo0111/NodeBin)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#21](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/21#issuecomment-899027954)
+2. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#16](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/16)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#16](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/16#issuecomment-898884003)
+4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#21](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/21#issuecomment-898883890)
+5. ![release] Released [v2.1.1](https://github.com/Lorenzo0111/RocketJoin/releases/tag/2.1.1) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#25](https://github.com/Lorenzo0111/RocketJoin/pull/25)
+7. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#30](https://github.com/Lorenzo0111/RocketPlaceholders/pull/30)
+8. ![comment] **Commented:** [Lorenzo0111/JShader#4](https://github.com/Lorenzo0111/JShader/pull/4#issuecomment-897870465)
+9. ![issueClosed] **Issue closed:** [Fernthedev/FernAPI#101](https://github.com/Fernthedev/FernAPI/issues/101)
+10. ![comment] **Commented:** [Fernthedev/FernAPI#101](https://github.com/Fernthedev/FernAPI/issues/101#issuecomment-897690922)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

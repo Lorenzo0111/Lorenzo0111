@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 17th, 2021, 12:35:32 AM
+Last Updated: Tuesday, August 17th, 2021, 12:16:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#21](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/21#issuecomment-899480048)
-2. ![comment] **Commented:** [sgtcaze/NametagEdit#630](https://github.com/sgtcaze/NametagEdit/issues/630#issuecomment-899093778)
-3. ![release] Released [v1.5](https://github.com/Lorenzo0111/MultiLang/releases/tag/1.5) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#21](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/21#issuecomment-899027954)
-5. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#16](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/16)
-6. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#16](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/16#issuecomment-898884003)
-7. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#21](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/21#issuecomment-898883890)
-8. ![release] Released [v2.1.1](https://github.com/Lorenzo0111/RocketJoin/releases/tag/2.1.1) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#25](https://github.com/Lorenzo0111/RocketJoin/pull/25)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#30](https://github.com/Lorenzo0111/RocketPlaceholders/pull/30)
+1. ![comment] **Commented:** [Lorenzo0111/RocketJoin#26](https://github.com/Lorenzo0111/RocketJoin/pull/26#issuecomment-900210660)
+2. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#22](https://github.com/Lorenzo0111/DownloadTracker/pull/22#issuecomment-900210632)
+3. ![prClosed] **Pull request closed:** [Lorenzo0111/MultiLang#22](https://github.com/Lorenzo0111/MultiLang/pull/22)
+4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#21](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/21#issuecomment-899480048)
+5. ![comment] **Commented:** [sgtcaze/NametagEdit#630](https://github.com/sgtcaze/NametagEdit/issues/630#issuecomment-899093778)
+6. ![release] Released [v1.5](https://github.com/Lorenzo0111/MultiLang/releases/tag/1.5) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
+7. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#21](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/21#issuecomment-899027954)
+8. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#16](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/16)
+9. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#16](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/16#issuecomment-898884003)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#21](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/21#issuecomment-898883890)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

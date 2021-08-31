@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 30th, 2021, 12:16:30 PM
+Last Updated: Tuesday, August 31st, 2021, 12:36:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#23](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/23#issuecomment-907833279)
-2. ![comment] **Commented:** [sgtcaze/NametagEdit#639](https://github.com/sgtcaze/NametagEdit/issues/639#issuecomment-907750382)
-3. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmoryVehicles2#22](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/22)
-4. ![comment] **Commented:** [Lorenzo0111/MultiLang#25](https://github.com/Lorenzo0111/MultiLang/pull/25#issuecomment-906981268)
-5. ![comment] **Commented:** [Lorenzo0111/NodeBin#22](https://github.com/Lorenzo0111/NodeBin/pull/22#issuecomment-906981116)
-6. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#31](https://github.com/Lorenzo0111/ElectionsPlus/pull/31#issuecomment-906980993)
-7. ![comment] **Commented:** [Lorenzo0111/RocketJoin#27](https://github.com/Lorenzo0111/RocketJoin/pull/27#issuecomment-906980751)
-8. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#30](https://github.com/Lorenzo0111/ElectionsPlus/pull/30#issuecomment-906980286)
-9. ![comment] **Commented:** [Lorenzo0111/RocketJoin#27](https://github.com/Lorenzo0111/RocketJoin/pull/27#issuecomment-906980154)
-10. ![comment] **Commented:** [sgtcaze/NametagEdit#639](https://github.com/sgtcaze/NametagEdit/issues/639#issuecomment-906106581)
+1. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#32](https://github.com/Lorenzo0111/ElectionsPlus/pull/32)
+2. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#33](https://github.com/harry0198/InfoHeads/pull/33)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#31](https://github.com/Lorenzo0111/RocketPlaceholders/pull/31)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#33](https://github.com/Lorenzo0111/ElectionsPlus/pull/33)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#27](https://github.com/Lorenzo0111/MultiLang/pull/27)
+6. ![prClosed] **Pull request closed:** [Lorenzo0111/MultiLang#28](https://github.com/Lorenzo0111/MultiLang/pull/28)
+7. ![release] Released [v1.6](https://github.com/Lorenzo0111/MultiLang/releases/tag/1.6) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#23](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/23#issuecomment-907833279)
+9. ![comment] **Commented:** [sgtcaze/NametagEdit#639](https://github.com/sgtcaze/NametagEdit/issues/639#issuecomment-907750382)
+10. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmoryVehicles2#22](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/22)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

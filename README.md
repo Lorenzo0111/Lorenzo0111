@@ -5,20 +5,20 @@ I'm a **Java Developer**.
 ## ⏱ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 7th, 2021, 12:34:12 AM
+Last Updated: Tuesday, September 7th, 2021, 12:16:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#33](https://github.com/Lorenzo0111/RocketPlaceholders/pull/33)
-2. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#21](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/21)
-3. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#23](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/23#issuecomment-912973143)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#23](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/23#issuecomment-909535157)
-5. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#32](https://github.com/Lorenzo0111/ElectionsPlus/pull/32)
-6. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#33](https://github.com/harry0198/InfoHeads/pull/33)
-7. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#31](https://github.com/Lorenzo0111/RocketPlaceholders/pull/31)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#33](https://github.com/Lorenzo0111/ElectionsPlus/pull/33)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#27](https://github.com/Lorenzo0111/MultiLang/pull/27)
-10. ![prClosed] **Pull request closed:** [Lorenzo0111/MultiLang#28](https://github.com/Lorenzo0111/MultiLang/pull/28)
+1. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#36](https://github.com/Lorenzo0111/ElectionsPlus/pull/36)
+2. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#31](https://github.com/Lorenzo0111/MultiLang/pull/31)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#34](https://github.com/Lorenzo0111/RocketPlaceholders/pull/34)
+4. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#36](https://github.com/harry0198/InfoHeads/pull/36)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#35](https://github.com/Lorenzo0111/ElectionsPlus/pull/35)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#30](https://github.com/Lorenzo0111/MultiLang/pull/30)
+7. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#35](https://github.com/harry0198/InfoHeads/pull/35)
+8. ![comment] **Commented:** [Lorenzo0111/HangarUpdater#5](https://github.com/Lorenzo0111/HangarUpdater/pull/5#issuecomment-914189316)
+9. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#35](https://github.com/Lorenzo0111/RocketPlaceholders/pull/35)
+10. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#24](https://github.com/Lorenzo0111/DownloadTracker/pull/24#issuecomment-914188880)
 <!--RECENT_ACTIVITY:end-->
 
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)

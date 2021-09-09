@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] **Pull request merged:** [Lorenzo0111/HangarUpdater#6](https://github.com/Lorenzo0111/HangarUpdater/pull/6)
-2. ![comment] **Commented:** [Glyart/GitHubChangelogBot#2](https://github.com/Glyart/GitHubChangelogBot/pull/2#issuecomment-914494504)
-3. ![prOpened] **Pull request opened:** [Glyart/GitHubChangelogBot#2](https://github.com/Glyart/GitHubChangelogBot/pull/2)
-4. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#36](https://github.com/Lorenzo0111/ElectionsPlus/pull/36)
-5. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#31](https://github.com/Lorenzo0111/MultiLang/pull/31)
-6. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#34](https://github.com/Lorenzo0111/RocketPlaceholders/pull/34)
-7. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#36](https://github.com/harry0198/InfoHeads/pull/36)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#35](https://github.com/Lorenzo0111/ElectionsPlus/pull/35)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#30](https://github.com/Lorenzo0111/MultiLang/pull/30)
-10. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#35](https://github.com/harry0198/InfoHeads/pull/35)
+1. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#37](https://github.com/harry0198/InfoHeads/pull/37)
+2. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#32](https://github.com/Lorenzo0111/MultiLang/pull/32)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#37](https://github.com/Lorenzo0111/ElectionsPlus/pull/37)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/HangarUpdater#6](https://github.com/Lorenzo0111/HangarUpdater/pull/6)
+5. ![comment] **Commented:** [Glyart/GitHubChangelogBot#2](https://github.com/Glyart/GitHubChangelogBot/pull/2#issuecomment-914494504)
+6. ![prOpened] **Pull request opened:** [Glyart/GitHubChangelogBot#2](https://github.com/Glyart/GitHubChangelogBot/pull/2)
+7. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#36](https://github.com/Lorenzo0111/ElectionsPlus/pull/36)
+8. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#31](https://github.com/Lorenzo0111/MultiLang/pull/31)
+9. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#34](https://github.com/Lorenzo0111/RocketPlaceholders/pull/34)
+10. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#36](https://github.com/harry0198/InfoHeads/pull/36)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 8th, 2021, 12:16:40 PM
+Last Updated: Thursday, September 9th, 2021, 12:37:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

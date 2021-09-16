@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [v2.0](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/2.0) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
-2. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketPlaceholders#21](https://github.com/Lorenzo0111/RocketPlaceholders/issues/21)
-3. ![comment] **Commented:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153#issuecomment-918826634)
-4. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmoryVehicles2#26](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/26)
-5. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#137](https://github.com/ZombieStriker/QualityArmory/issues/137)
-6. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#107](https://github.com/ZombieStriker/QualityArmory/issues/107)
-7. ![comment] **Commented:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153#issuecomment-918105870)
-8. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153)
-9. ![release] Released [RocketJoin 2.0.3 - Upgraded configuration system](https://github.com/Lorenzo0111/RocketJoin/releases/tag/2.0.3) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#24](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/24#issuecomment-917627123)
+1. ![comment] **Commented:** [mallowigi/a-file-icon-idea#216](https://github.com/mallowigi/a-file-icon-idea/issues/216#issuecomment-920088511)
+2. ![comment] **Commented:** [PaperMC/Paper#6609](https://github.com/PaperMC/Paper/issues/6609#issuecomment-920077160)
+3. ![issueOpened] **Issue opened:** [PaperMC/Paper#6609](https://github.com/PaperMC/Paper/issues/6609)
+4. ![release] Released [v2.0](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/2.0) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
+5. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketPlaceholders#21](https://github.com/Lorenzo0111/RocketPlaceholders/issues/21)
+6. ![comment] **Commented:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153#issuecomment-918826634)
+7. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmoryVehicles2#26](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/26)
+8. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#137](https://github.com/ZombieStriker/QualityArmory/issues/137)
+9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#107](https://github.com/ZombieStriker/QualityArmory/issues/107)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153#issuecomment-918105870)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 15th, 2021, 12:17:51 PM
+Last Updated: Thursday, September 16th, 2021, 12:38:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153#issuecomment-922936199)
-2. ![release] Released [v1.6.1](https://github.com/Lorenzo0111/MultiLang/releases/tag/1.6.1) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
-3. ![comment] **Commented:** [PaperMC/Paper#6609](https://github.com/PaperMC/Paper/issues/6609#issuecomment-922265391)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153#issuecomment-921133051)
-5. ![comment] **Commented:** [mallowigi/a-file-icon-idea#216](https://github.com/mallowigi/a-file-icon-idea/issues/216#issuecomment-920088511)
-6. ![comment] **Commented:** [PaperMC/Paper#6609](https://github.com/PaperMC/Paper/issues/6609#issuecomment-920077160)
-7. ![issueOpened] **Issue opened:** [PaperMC/Paper#6609](https://github.com/PaperMC/Paper/issues/6609)
-8. ![release] Released [v2.0](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/2.0) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
-9. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketPlaceholders#21](https://github.com/Lorenzo0111/RocketPlaceholders/issues/21)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153#issuecomment-918826634)
+1. ![comment] **Commented:** [sgtcaze/NametagEdit#644](https://github.com/sgtcaze/NametagEdit/issues/644#issuecomment-925819019)
+2. ![comment] **Commented:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153#issuecomment-922936199)
+3. ![release] Released [v1.6.1](https://github.com/Lorenzo0111/MultiLang/releases/tag/1.6.1) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
+4. ![comment] **Commented:** [PaperMC/Paper#6609](https://github.com/PaperMC/Paper/issues/6609#issuecomment-922265391)
+5. ![comment] **Commented:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153#issuecomment-921133051)
+6. ![comment] **Commented:** [mallowigi/a-file-icon-idea#216](https://github.com/mallowigi/a-file-icon-idea/issues/216#issuecomment-920088511)
+7. ![comment] **Commented:** [PaperMC/Paper#6609](https://github.com/PaperMC/Paper/issues/6609#issuecomment-920077160)
+8. ![issueOpened] **Issue opened:** [PaperMC/Paper#6609](https://github.com/PaperMC/Paper/issues/6609)
+9. ![release] Released [v2.0](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/2.0) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
+10. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketPlaceholders#21](https://github.com/Lorenzo0111/RocketPlaceholders/issues/21)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 23rd, 2021, 12:18:26 PM
+Last Updated: Friday, September 24th, 2021, 12:36:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#155](https://github.com/ZombieStriker/QualityArmory/issues/155)
-2. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#154](https://github.com/ZombieStriker/QualityArmory/issues/154)
-3. ![comment] **Commented:** [sgtcaze/NametagEdit#644](https://github.com/sgtcaze/NametagEdit/issues/644#issuecomment-925819019)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153#issuecomment-922936199)
-5. ![release] Released [v1.6.1](https://github.com/Lorenzo0111/MultiLang/releases/tag/1.6.1) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
-6. ![comment] **Commented:** [PaperMC/Paper#6609](https://github.com/PaperMC/Paper/issues/6609#issuecomment-922265391)
-7. ![comment] **Commented:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153#issuecomment-921133051)
-8. ![comment] **Commented:** [mallowigi/a-file-icon-idea#216](https://github.com/mallowigi/a-file-icon-idea/issues/216#issuecomment-920088511)
-9. ![comment] **Commented:** [PaperMC/Paper#6609](https://github.com/PaperMC/Paper/issues/6609#issuecomment-920077160)
-10. ![issueOpened] **Issue opened:** [PaperMC/Paper#6609](https://github.com/PaperMC/Paper/issues/6609)
+1. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#36](https://github.com/Lorenzo0111/RocketPlaceholders/pull/36)
+2. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#38](https://github.com/Lorenzo0111/ElectionsPlus/pull/38)
+3. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmoryVehicles2#27](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/27)
+4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#24](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/24#issuecomment-926694790)
+5. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#155](https://github.com/ZombieStriker/QualityArmory/issues/155)
+6. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#154](https://github.com/ZombieStriker/QualityArmory/issues/154)
+7. ![comment] **Commented:** [sgtcaze/NametagEdit#644](https://github.com/sgtcaze/NametagEdit/issues/644#issuecomment-925819019)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmory#153](https://github.com/ZombieStriker/QualityArmory/issues/153#issuecomment-922936199)
+9. ![release] Released [v1.6.1](https://github.com/Lorenzo0111/MultiLang/releases/tag/1.6.1) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
+10. ![comment] **Commented:** [PaperMC/Paper#6609](https://github.com/PaperMC/Paper/issues/6609#issuecomment-922265391)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 24th, 2021, 12:16:40 PM
+Last Updated: Saturday, September 25th, 2021, 12:36:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

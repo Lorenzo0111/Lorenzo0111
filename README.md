@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [ZombieStriker/QualityArmory#157](https://github.com/ZombieStriker/QualityArmory/issues/157#issuecomment-927356176)
-2. ![release] Released [v2.1](https://github.com/Lorenzo0111/BileTools/releases/tag/2.1) in [Lorenzo0111/BileTools](https://github.com/Lorenzo0111/BileTools)
-3. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#38](https://github.com/harry0198/InfoHeads/pull/38)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmory#157](https://github.com/ZombieStriker/QualityArmory/issues/157#issuecomment-927254972)
-5. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#158](https://github.com/ZombieStriker/QualityArmory/issues/158)
-6. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#159](https://github.com/ZombieStriker/QualityArmory/issues/159)
+1. ![release] Released [v2.1.9](https://github.com/ZombieStriker/QualityArmory-Resourcepack/releases/tag/v2.1.9) in [ZombieStriker/QualityArmory-Resourcepack](https://github.com/ZombieStriker/QualityArmory-Resourcepack)
+2. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory-Resourcepack#1](https://github.com/ZombieStriker/QualityArmory-Resourcepack/issues/1)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmory#157](https://github.com/ZombieStriker/QualityArmory/issues/157#issuecomment-927356176)
+4. ![release] Released [v2.1](https://github.com/Lorenzo0111/BileTools/releases/tag/2.1) in [Lorenzo0111/BileTools](https://github.com/Lorenzo0111/BileTools)
+5. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#38](https://github.com/harry0198/InfoHeads/pull/38)
+6. ![comment] **Commented:** [ZombieStriker/QualityArmory#157](https://github.com/ZombieStriker/QualityArmory/issues/157#issuecomment-927254972)
 7. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#158](https://github.com/ZombieStriker/QualityArmory/issues/158)
-8. ![comment] **Commented:** [ZombieStriker/QualityArmory#158](https://github.com/ZombieStriker/QualityArmory/issues/158#issuecomment-927240179)
-9. ![comment] **Commented:** [ZombieStriker/QualityArmory#156](https://github.com/ZombieStriker/QualityArmory/issues/156#issuecomment-927240061)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#148](https://github.com/ZombieStriker/QualityArmory/issues/148#issuecomment-927135805)
+8. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#159](https://github.com/ZombieStriker/QualityArmory/issues/159)
+9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#158](https://github.com/ZombieStriker/QualityArmory/issues/158)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmory#158](https://github.com/ZombieStriker/QualityArmory/issues/158#issuecomment-927240179)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 27th, 2021, 12:17:35 PM
+Last Updated: Tuesday, September 28th, 2021, 12:37:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

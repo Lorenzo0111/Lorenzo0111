@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#34](https://github.com/Lorenzo0111/MultiLang/pull/34)
-2. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#42](https://github.com/Lorenzo0111/ElectionsPlus/pull/42)
-3. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#39](https://github.com/Lorenzo0111/RocketPlaceholders/pull/39)
-4. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#33](https://github.com/Lorenzo0111/MultiLang/pull/33)
-5. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#41](https://github.com/Lorenzo0111/ElectionsPlus/pull/41)
-6. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#38](https://github.com/Lorenzo0111/RocketPlaceholders/pull/38)
-7. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#29](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/29)
-8. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#30](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/30)
-9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#32](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/32)
-10. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#36](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/36)
+1. ![prMerged] **Pull request merged:** [Lorenzo0111/DownloadTracker#32](https://github.com/Lorenzo0111/DownloadTracker/pull/32)
+2. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#34](https://github.com/Lorenzo0111/MultiLang/pull/34)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#42](https://github.com/Lorenzo0111/ElectionsPlus/pull/42)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#39](https://github.com/Lorenzo0111/RocketPlaceholders/pull/39)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#33](https://github.com/Lorenzo0111/MultiLang/pull/33)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#41](https://github.com/Lorenzo0111/ElectionsPlus/pull/41)
+7. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#38](https://github.com/Lorenzo0111/RocketPlaceholders/pull/38)
+8. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#29](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/29)
+9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#30](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/30)
+10. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#32](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/32)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 5th, 2021, 12:38:23 AM
+Last Updated: Tuesday, October 5th, 2021, 12:17:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

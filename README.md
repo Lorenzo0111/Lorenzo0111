@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [sgtcaze/NametagEdit#651](https://github.com/sgtcaze/NametagEdit/issues/651#issuecomment-946105215)
-2. ![comment] **Commented:** [sgtcaze/NametagEdit#652](https://github.com/sgtcaze/NametagEdit/issues/652#issuecomment-946103751)
-3. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#51](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/51#issuecomment-945067152)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmory#186](https://github.com/ZombieStriker/QualityArmory/issues/186#issuecomment-945066957)
-5. ![comment] **Commented:** [ZombieStriker/QualityArmory#185](https://github.com/ZombieStriker/QualityArmory/issues/185#issuecomment-945066846)
-6. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#188](https://github.com/ZombieStriker/QualityArmory/issues/188)
-7. ![comment] **Commented:** [ZombieStriker/QualityArmory#188](https://github.com/ZombieStriker/QualityArmory/issues/188#issuecomment-944889989)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#37](https://github.com/Lorenzo0111/RocketPlaceholders/pull/37)
-9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#155](https://github.com/ZombieStriker/QualityArmory/issues/155)
-10. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#178](https://github.com/ZombieStriker/QualityArmory/issues/178)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#50](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/50#issuecomment-947852731)
+2. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#38](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/38#issuecomment-947852708)
+3. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#40](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/40)
+4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#48](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/48#issuecomment-947833182)
+5. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#49](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/49#issuecomment-947832109)
+6. ![comment] **Commented:** [sgtcaze/NametagEdit#651](https://github.com/sgtcaze/NametagEdit/issues/651#issuecomment-946105215)
+7. ![comment] **Commented:** [sgtcaze/NametagEdit#652](https://github.com/sgtcaze/NametagEdit/issues/652#issuecomment-946103751)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#51](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/51#issuecomment-945067152)
+9. ![comment] **Commented:** [ZombieStriker/QualityArmory#186](https://github.com/ZombieStriker/QualityArmory/issues/186#issuecomment-945066957)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmory#185](https://github.com/ZombieStriker/QualityArmory/issues/185#issuecomment-945066846)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 20th, 2021, 12:17:43 PM
+Last Updated: Thursday, October 21st, 2021, 12:44:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

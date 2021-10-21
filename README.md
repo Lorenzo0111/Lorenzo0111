@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#50](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/50#issuecomment-947852731)
-2. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#38](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/38#issuecomment-947852708)
-3. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#40](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/40)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#48](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/48#issuecomment-947833182)
-5. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#49](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/49#issuecomment-947832109)
-6. ![comment] **Commented:** [sgtcaze/NametagEdit#651](https://github.com/sgtcaze/NametagEdit/issues/651#issuecomment-946105215)
-7. ![comment] **Commented:** [sgtcaze/NametagEdit#652](https://github.com/sgtcaze/NametagEdit/issues/652#issuecomment-946103751)
-8. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#51](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/51#issuecomment-945067152)
-9. ![comment] **Commented:** [ZombieStriker/QualityArmory#186](https://github.com/ZombieStriker/QualityArmory/issues/186#issuecomment-945066957)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#185](https://github.com/ZombieStriker/QualityArmory/issues/185#issuecomment-945066846)
+1. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#189](https://github.com/ZombieStriker/QualityArmory/issues/189)
+2. ![comment] **Commented:** [ZombieStriker/QualityArmory#189](https://github.com/ZombieStriker/QualityArmory/issues/189#issuecomment-948523642)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#50](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/50#issuecomment-947852731)
+4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#38](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/38#issuecomment-947852708)
+5. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#40](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/40)
+6. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#48](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/48#issuecomment-947833182)
+7. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#49](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/49#issuecomment-947832109)
+8. ![comment] **Commented:** [sgtcaze/NametagEdit#651](https://github.com/sgtcaze/NametagEdit/issues/651#issuecomment-946105215)
+9. ![comment] **Commented:** [sgtcaze/NametagEdit#652](https://github.com/sgtcaze/NametagEdit/issues/652#issuecomment-946103751)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#51](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/51#issuecomment-945067152)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 21st, 2021, 12:44:19 AM
+Last Updated: Thursday, October 21st, 2021, 12:18:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [v1.0](https://github.com/Lorenzo0111/DebugEconomy/releases/tag/v1.0) in [Lorenzo0111/DebugEconomy](https://github.com/Lorenzo0111/DebugEconomy)
-2. ![repoCreated] Created new repository [Lorenzo0111/DebugEconomy](https://github.com/Lorenzo0111/DebugEconomy)
-3. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#196](https://github.com/ZombieStriker/QualityArmory/issues/196)
-4. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#197](https://github.com/ZombieStriker/QualityArmory/issues/197)
-5. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#195](https://github.com/ZombieStriker/QualityArmory/issues/195)
-6. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#194](https://github.com/ZombieStriker/QualityArmory/issues/194)
-7. ![comment] **Commented:** [ZombieStriker/QualityArmory#192](https://github.com/ZombieStriker/QualityArmory/issues/192#issuecomment-953070520)
-8. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#35](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/35)
-9. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#39](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/39#issuecomment-951168298)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#35](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/35#issuecomment-951166354)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#56](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/56#issuecomment-953495403)
+2. ![comment] **Commented:** [sgtcaze/NametagEdit#658](https://github.com/sgtcaze/NametagEdit/issues/658#issuecomment-953495045)
+3. ![release] Released [v1.0](https://github.com/Lorenzo0111/DebugEconomy/releases/tag/v1.0) in [Lorenzo0111/DebugEconomy](https://github.com/Lorenzo0111/DebugEconomy)
+4. ![repoCreated] Created new repository [Lorenzo0111/DebugEconomy](https://github.com/Lorenzo0111/DebugEconomy)
+5. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#196](https://github.com/ZombieStriker/QualityArmory/issues/196)
+6. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#197](https://github.com/ZombieStriker/QualityArmory/issues/197)
+7. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#195](https://github.com/ZombieStriker/QualityArmory/issues/195)
+8. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#194](https://github.com/ZombieStriker/QualityArmory/issues/194)
+9. ![comment] **Commented:** [ZombieStriker/QualityArmory#192](https://github.com/ZombieStriker/QualityArmory/issues/192#issuecomment-953070520)
+10. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#35](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/35)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 28th, 2021, 12:37:36 AM
+Last Updated: Thursday, October 28th, 2021, 12:17:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

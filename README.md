@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [sgtcaze/NametagEdit#654](https://github.com/sgtcaze/NametagEdit/issues/654#issuecomment-954921061)
-2. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#35](https://github.com/Lorenzo0111/DownloadTracker/pull/35#issuecomment-954920615)
-3. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#42](https://github.com/Lorenzo0111/RocketPlaceholders/pull/42#issuecomment-954920577)
-4. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#44](https://github.com/Lorenzo0111/ElectionsPlus/pull/44#issuecomment-954920551)
-5. ![comment] **Commented:** [Lorenzo0111/MultiLang#37](https://github.com/Lorenzo0111/MultiLang/pull/37#issuecomment-954920524)
-6. ![comment] **Commented:** [Lorenzo0111/Lorenzo0111#10](https://github.com/Lorenzo0111/Lorenzo0111/pull/10#issuecomment-954919862)
-7. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#43](https://github.com/Lorenzo0111/ElectionsPlus/pull/43#issuecomment-954919823)
-8. ![comment] **Commented:** [Lorenzo0111/MultiLang#36](https://github.com/Lorenzo0111/MultiLang/pull/36#issuecomment-954919778)
-9. ![comment] **Commented:** [sgtcaze/NametagEdit#652](https://github.com/sgtcaze/NametagEdit/issues/652#issuecomment-954919524)
-10. ![comment] **Commented:** [Lorenzo0111/NodeBin#32](https://github.com/Lorenzo0111/NodeBin/pull/32#issuecomment-954919198)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmory#179](https://github.com/ZombieStriker/QualityArmory/issues/179#issuecomment-955580809)
+2. ![comment] **Commented:** [ZombieStriker/QualityArmory#171](https://github.com/ZombieStriker/QualityArmory/issues/171#issuecomment-955580707)
+3. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#48](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/48)
+4. ![issueOpened] **Issue opened:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61)
+5. ![comment] **Commented:** [ZombieStriker/QualityArmory#181](https://github.com/ZombieStriker/QualityArmory/issues/181#issuecomment-955442085)
+6. ![issueOpened] **Issue opened:** [slimjar/slimjar#60](https://github.com/slimjar/slimjar/issues/60)
+7. ![comment] **Commented:** [sgtcaze/NametagEdit#652](https://github.com/sgtcaze/NametagEdit/issues/652#issuecomment-955268949)
+8. ![comment] **Commented:** [sgtcaze/NametagEdit#654](https://github.com/sgtcaze/NametagEdit/issues/654#issuecomment-954921061)
+9. ![comment] **Commented:** [Lorenzo0111/DownloadTracker#35](https://github.com/Lorenzo0111/DownloadTracker/pull/35#issuecomment-954920615)
+10. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#42](https://github.com/Lorenzo0111/RocketPlaceholders/pull/42#issuecomment-954920577)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 30th, 2021, 12:16:18 PM
+Last Updated: Sunday, October 31st, 2021, 12:39:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

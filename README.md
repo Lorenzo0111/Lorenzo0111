@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-955702577)
-2. ![release] Released [v2.0.3](https://github.com/FoxPowered/PluginsLib/releases/tag/2.0.3) in [FoxPowered/PluginsLib](https://github.com/FoxPowered/PluginsLib)
-3. ![release] Released [v2.0.3](https://github.com/FoxPowered/PluginsLib/releases/tag/2.0.3) in [FoxPowered/PluginsLib](https://github.com/FoxPowered/PluginsLib)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmory#179](https://github.com/ZombieStriker/QualityArmory/issues/179#issuecomment-955580809)
-5. ![comment] **Commented:** [ZombieStriker/QualityArmory#171](https://github.com/ZombieStriker/QualityArmory/issues/171#issuecomment-955580707)
-6. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#48](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/48)
-7. ![issueOpened] **Issue opened:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61)
-8. ![comment] **Commented:** [ZombieStriker/QualityArmory#181](https://github.com/ZombieStriker/QualityArmory/issues/181#issuecomment-955442085)
-9. ![issueOpened] **Issue opened:** [slimjar/slimjar#60](https://github.com/slimjar/slimjar/issues/60)
-10. ![comment] **Commented:** [sgtcaze/NametagEdit#652](https://github.com/sgtcaze/NametagEdit/issues/652#issuecomment-955268949)
+1. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#50](https://github.com/Lorenzo0111/ElectionsPlus/pull/50#issuecomment-956277993)
+2. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#48](https://github.com/Lorenzo0111/ElectionsPlus/pull/48#issuecomment-956277734)
+3. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#45](https://github.com/Lorenzo0111/RocketPlaceholders/pull/45#issuecomment-956277332)
+4. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#50](https://github.com/Lorenzo0111/ElectionsPlus/pull/50#issuecomment-956276902)
+5. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#49](https://github.com/Lorenzo0111/ElectionsPlus/pull/49#issuecomment-956276839)
+6. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#48](https://github.com/Lorenzo0111/ElectionsPlus/pull/48#issuecomment-956276789)
+7. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#47](https://github.com/Lorenzo0111/ElectionsPlus/pull/47#issuecomment-956276736)
+8. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#46](https://github.com/Lorenzo0111/ElectionsPlus/pull/46#issuecomment-956276606)
+9. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#45](https://github.com/Lorenzo0111/ElectionsPlus/pull/45#issuecomment-956276216)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#58](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/58#issuecomment-956276178)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 1st, 2021, 12:18:02 PM
+Last Updated: Tuesday, November 2nd, 2021, 12:41:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

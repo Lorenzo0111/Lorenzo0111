@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#50](https://github.com/Lorenzo0111/ElectionsPlus/pull/50#issuecomment-956277993)
-2. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#48](https://github.com/Lorenzo0111/ElectionsPlus/pull/48#issuecomment-956277734)
-3. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#45](https://github.com/Lorenzo0111/RocketPlaceholders/pull/45#issuecomment-956277332)
-4. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#50](https://github.com/Lorenzo0111/ElectionsPlus/pull/50#issuecomment-956276902)
-5. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#49](https://github.com/Lorenzo0111/ElectionsPlus/pull/49#issuecomment-956276839)
-6. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#48](https://github.com/Lorenzo0111/ElectionsPlus/pull/48#issuecomment-956276789)
-7. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#47](https://github.com/Lorenzo0111/ElectionsPlus/pull/47#issuecomment-956276736)
-8. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#46](https://github.com/Lorenzo0111/ElectionsPlus/pull/46#issuecomment-956276606)
-9. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#45](https://github.com/Lorenzo0111/ElectionsPlus/pull/45#issuecomment-956276216)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#58](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/58#issuecomment-956276178)
+1. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#198](https://github.com/ZombieStriker/QualityArmory/issues/198)
+2. ![comment] **Commented:** [ZombieStriker/QualityArmory#198](https://github.com/ZombieStriker/QualityArmory/issues/198#issuecomment-958667308)
+3. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#50](https://github.com/Lorenzo0111/ElectionsPlus/pull/50#issuecomment-956277993)
+4. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#48](https://github.com/Lorenzo0111/ElectionsPlus/pull/48#issuecomment-956277734)
+5. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#45](https://github.com/Lorenzo0111/RocketPlaceholders/pull/45#issuecomment-956277332)
+6. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#50](https://github.com/Lorenzo0111/ElectionsPlus/pull/50#issuecomment-956276902)
+7. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#49](https://github.com/Lorenzo0111/ElectionsPlus/pull/49#issuecomment-956276839)
+8. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#48](https://github.com/Lorenzo0111/ElectionsPlus/pull/48#issuecomment-956276789)
+9. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#47](https://github.com/Lorenzo0111/ElectionsPlus/pull/47#issuecomment-956276736)
+10. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#46](https://github.com/Lorenzo0111/ElectionsPlus/pull/46#issuecomment-956276606)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 3rd, 2021, 12:37:32 AM
+Last Updated: Wednesday, November 3rd, 2021, 12:17:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

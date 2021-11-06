@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [ZombieStriker/QualityArmory#180](https://github.com/ZombieStriker/QualityArmory/issues/180#issuecomment-962121494)
-2. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-962071258)
-3. ![comment] **Commented:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199#issuecomment-961643938)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199#issuecomment-960471404)
-5. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#198](https://github.com/ZombieStriker/QualityArmory/issues/198)
-6. ![comment] **Commented:** [ZombieStriker/QualityArmory#198](https://github.com/ZombieStriker/QualityArmory/issues/198#issuecomment-958667308)
-7. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#50](https://github.com/Lorenzo0111/ElectionsPlus/pull/50#issuecomment-956277993)
-8. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#48](https://github.com/Lorenzo0111/ElectionsPlus/pull/48#issuecomment-956277734)
-9. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#45](https://github.com/Lorenzo0111/RocketPlaceholders/pull/45#issuecomment-956277332)
-10. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#50](https://github.com/Lorenzo0111/ElectionsPlus/pull/50#issuecomment-956276902)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199#issuecomment-962402842)
+2. ![comment] **Commented:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199#issuecomment-962399230)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmory#180](https://github.com/ZombieStriker/QualityArmory/issues/180#issuecomment-962121494)
+4. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-962071258)
+5. ![comment] **Commented:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199#issuecomment-961643938)
+6. ![comment] **Commented:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199#issuecomment-960471404)
+7. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#198](https://github.com/ZombieStriker/QualityArmory/issues/198)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmory#198](https://github.com/ZombieStriker/QualityArmory/issues/198#issuecomment-958667308)
+9. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#50](https://github.com/Lorenzo0111/ElectionsPlus/pull/50#issuecomment-956277993)
+10. ![comment] **Commented:** [Lorenzo0111/ElectionsPlus#48](https://github.com/Lorenzo0111/ElectionsPlus/pull/48#issuecomment-956277734)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 6th, 2021, 12:36:29 AM
+Last Updated: Saturday, November 6th, 2021, 12:16:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

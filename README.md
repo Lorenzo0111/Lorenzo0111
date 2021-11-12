@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-966529395)
-2. ![release] Released [New compatibilities](https://github.com/ZombieStriker/QualityArmory/releases/tag/v2.0.3) in [ZombieStriker/QualityArmory](https://github.com/ZombieStriker/QualityArmory)
-3. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-963344827)
-4. ![release] Released [Temporary fix for SlimJar](https://github.com/FoxPowered/PluginsLib/releases/tag/2.0.3.1) in [FoxPowered/PluginsLib](https://github.com/FoxPowered/PluginsLib)
-5. ![issueOpened] **Issue opened:** [Lorenzo0111/ZombieStrikerBot#1](https://github.com/Lorenzo0111/ZombieStrikerBot/issues/1)
-6. ![comment] **Commented:** [sp614x/optifine#6356](https://github.com/sp614x/optifine/issues/6356#issuecomment-962644867)
-7. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199)
-8. ![comment] **Commented:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199#issuecomment-962402842)
-9. ![comment] **Commented:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199#issuecomment-962399230)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#180](https://github.com/ZombieStriker/QualityArmory/issues/180#issuecomment-962121494)
+1. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmoryVehicles2#64](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/64)
+2. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-966529395)
+3. ![release] Released [New compatibilities](https://github.com/ZombieStriker/QualityArmory/releases/tag/v2.0.3) in [ZombieStriker/QualityArmory](https://github.com/ZombieStriker/QualityArmory)
+4. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-963344827)
+5. ![release] Released [Temporary fix for SlimJar](https://github.com/FoxPowered/PluginsLib/releases/tag/2.0.3.1) in [FoxPowered/PluginsLib](https://github.com/FoxPowered/PluginsLib)
+6. ![issueOpened] **Issue opened:** [Lorenzo0111/ZombieStrikerBot#1](https://github.com/Lorenzo0111/ZombieStrikerBot/issues/1)
+7. ![comment] **Commented:** [sp614x/optifine#6356](https://github.com/sp614x/optifine/issues/6356#issuecomment-962644867)
+8. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199)
+9. ![comment] **Commented:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199#issuecomment-962402842)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199#issuecomment-962399230)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 12th, 2021, 12:39:20 AM
+Last Updated: Friday, November 12th, 2021, 12:17:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

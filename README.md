@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmoryVehicles2#64](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/64)
-2. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-966529395)
-3. ![release] Released [New compatibilities](https://github.com/ZombieStriker/QualityArmory/releases/tag/v2.0.3) in [ZombieStriker/QualityArmory](https://github.com/ZombieStriker/QualityArmory)
-4. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-963344827)
-5. ![release] Released [Temporary fix for SlimJar](https://github.com/FoxPowered/PluginsLib/releases/tag/2.0.3.1) in [FoxPowered/PluginsLib](https://github.com/FoxPowered/PluginsLib)
-6. ![issueOpened] **Issue opened:** [Lorenzo0111/ZombieStrikerBot#1](https://github.com/Lorenzo0111/ZombieStrikerBot/issues/1)
-7. ![comment] **Commented:** [sp614x/optifine#6356](https://github.com/sp614x/optifine/issues/6356#issuecomment-962644867)
-8. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199)
-9. ![comment] **Commented:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199#issuecomment-962402842)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#199](https://github.com/ZombieStriker/QualityArmory/issues/199#issuecomment-962399230)
+1. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketJoin#35](https://github.com/Lorenzo0111/RocketJoin/issues/35)
+2. ![comment] **Commented:** [Lorenzo0111/RocketJoin#35](https://github.com/Lorenzo0111/RocketJoin/issues/35#issuecomment-968101499)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#36](https://github.com/Lorenzo0111/RocketJoin/pull/36)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#37](https://github.com/Lorenzo0111/RocketJoin/pull/37)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#38](https://github.com/Lorenzo0111/RocketJoin/pull/38)
+6. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmoryVehicles2#64](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/64)
+7. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-966529395)
+8. ![release] Released [New compatibilities](https://github.com/ZombieStriker/QualityArmory/releases/tag/v2.0.3) in [ZombieStriker/QualityArmory](https://github.com/ZombieStriker/QualityArmory)
+9. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-963344827)
+10. ![release] Released [Temporary fix for SlimJar](https://github.com/FoxPowered/PluginsLib/releases/tag/2.0.3.1) in [FoxPowered/PluginsLib](https://github.com/FoxPowered/PluginsLib)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 13th, 2021, 12:16:33 PM
+Last Updated: Sunday, November 14th, 2021, 12:39:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

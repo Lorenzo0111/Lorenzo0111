@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketJoin#35](https://github.com/Lorenzo0111/RocketJoin/issues/35)
-2. ![comment] **Commented:** [Lorenzo0111/RocketJoin#35](https://github.com/Lorenzo0111/RocketJoin/issues/35#issuecomment-968101499)
-3. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#36](https://github.com/Lorenzo0111/RocketJoin/pull/36)
-4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#37](https://github.com/Lorenzo0111/RocketJoin/pull/37)
-5. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#38](https://github.com/Lorenzo0111/RocketJoin/pull/38)
-6. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmoryVehicles2#64](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/64)
-7. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-966529395)
-8. ![release] Released [New compatibilities](https://github.com/ZombieStriker/QualityArmory/releases/tag/v2.0.3) in [ZombieStriker/QualityArmory](https://github.com/ZombieStriker/QualityArmory)
-9. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-963344827)
-10. ![release] Released [Temporary fix for SlimJar](https://github.com/FoxPowered/PluginsLib/releases/tag/2.0.3.1) in [FoxPowered/PluginsLib](https://github.com/FoxPowered/PluginsLib)
+1. ![release] Released [v2.4.1](https://github.com/harry0198/InfoHeads/releases/tag/2.4.1) in [harry0198/InfoHeads](https://github.com/harry0198/InfoHeads)
+2. ![release] Released [v1.6.2](https://github.com/Lorenzo0111/MultiLang/releases/tag/v1.6.2) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
+3. ![release] Released [v2.0.1](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/2.0.1) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#46](https://github.com/Lorenzo0111/RocketPlaceholders/pull/46)
+5. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#44](https://github.com/harry0198/InfoHeads/pull/44)
+6. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#45](https://github.com/harry0198/InfoHeads/pull/45)
+7. ![release] Released [v2.0.3.2](https://github.com/FoxPowered/PluginsLib/releases/tag/2.0.3.2) in [FoxPowered/PluginsLib](https://github.com/FoxPowered/PluginsLib)
+8. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-968312694)
+9. ![comment] **Commented:** [slimjar/slimjar#61](https://github.com/slimjar/slimjar/issues/61#issuecomment-968310048)
+10. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketJoin#35](https://github.com/Lorenzo0111/RocketJoin/issues/35)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 14th, 2021, 12:16:42 PM
+Last Updated: Monday, November 15th, 2021, 12:38:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

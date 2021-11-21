@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#35](https://github.com/Lorenzo0111/NodeBin/pull/35)
-2. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#34](https://github.com/Lorenzo0111/NodeBin/pull/34)
-3. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#42](https://github.com/Lorenzo0111/MultiLang/pull/42)
-4. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#44](https://github.com/Lorenzo0111/MultiLang/pull/44)
-5. ![comment] **Commented:** [Lorenzo0111/MultiLang#44](https://github.com/Lorenzo0111/MultiLang/pull/44#issuecomment-971733435)
-6. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#43](https://github.com/Lorenzo0111/MultiLang/pull/43)
-7. ![comment] **Commented:** [Lorenzo0111/MultiLang#42](https://github.com/Lorenzo0111/MultiLang/pull/42#issuecomment-971733224)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#33](https://github.com/Lorenzo0111/NodeBin/pull/33)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#41](https://github.com/Lorenzo0111/MultiLang/pull/41)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#57](https://github.com/Lorenzo0111/ElectionsPlus/pull/57)
+1. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#207](https://github.com/ZombieStriker/QualityArmory/issues/207)
+2. ![comment] **Commented:** [ZombieStriker/QualityArmory#207](https://github.com/ZombieStriker/QualityArmory/issues/207#issuecomment-974657945)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#35](https://github.com/Lorenzo0111/NodeBin/pull/35)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#34](https://github.com/Lorenzo0111/NodeBin/pull/34)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#42](https://github.com/Lorenzo0111/MultiLang/pull/42)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#44](https://github.com/Lorenzo0111/MultiLang/pull/44)
+7. ![comment] **Commented:** [Lorenzo0111/MultiLang#44](https://github.com/Lorenzo0111/MultiLang/pull/44#issuecomment-971733435)
+8. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#43](https://github.com/Lorenzo0111/MultiLang/pull/43)
+9. ![comment] **Commented:** [Lorenzo0111/MultiLang#42](https://github.com/Lorenzo0111/MultiLang/pull/42#issuecomment-971733224)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#33](https://github.com/Lorenzo0111/NodeBin/pull/33)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 20th, 2021, 12:16:39 PM
+Last Updated: Sunday, November 21st, 2021, 12:39:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

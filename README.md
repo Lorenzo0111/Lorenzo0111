@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [ZombieStriker/QualityArmory#208](https://github.com/ZombieStriker/QualityArmory/issues/208#issuecomment-977578132)
-2. ![prClosed] **Pull request closed:** [Lorenzo0111/RocketJoin#42](https://github.com/Lorenzo0111/RocketJoin/pull/42)
-3. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketJoin#31](https://github.com/Lorenzo0111/RocketJoin/issues/31)
-4. ![prClosed] **Pull request closed:** [Lorenzo0111/RocketJoin#41](https://github.com/Lorenzo0111/RocketJoin/pull/41)
-5. ![prClosed] **Pull request closed:** [Lorenzo0111/ElectionsPlus#58](https://github.com/Lorenzo0111/ElectionsPlus/pull/58)
-6. ![prClosed] **Pull request closed:** [Lorenzo0111/RocketPlaceholders#48](https://github.com/Lorenzo0111/RocketPlaceholders/pull/48)
-7. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#207](https://github.com/ZombieStriker/QualityArmory/issues/207)
-8. ![comment] **Commented:** [ZombieStriker/QualityArmory#207](https://github.com/ZombieStriker/QualityArmory/issues/207#issuecomment-974657945)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#35](https://github.com/Lorenzo0111/NodeBin/pull/35)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#34](https://github.com/Lorenzo0111/NodeBin/pull/34)
+1. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#192](https://github.com/ZombieStriker/QualityArmory/issues/192)
+2. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#42](https://github.com/Lorenzo0111/RocketJoin/pull/42)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmory#208](https://github.com/ZombieStriker/QualityArmory/issues/208#issuecomment-977578132)
+4. ![prClosed] **Pull request closed:** [Lorenzo0111/RocketJoin#42](https://github.com/Lorenzo0111/RocketJoin/pull/42)
+5. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketJoin#31](https://github.com/Lorenzo0111/RocketJoin/issues/31)
+6. ![prClosed] **Pull request closed:** [Lorenzo0111/RocketJoin#41](https://github.com/Lorenzo0111/RocketJoin/pull/41)
+7. ![prClosed] **Pull request closed:** [Lorenzo0111/ElectionsPlus#58](https://github.com/Lorenzo0111/ElectionsPlus/pull/58)
+8. ![prClosed] **Pull request closed:** [Lorenzo0111/RocketPlaceholders#48](https://github.com/Lorenzo0111/RocketPlaceholders/pull/48)
+9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#207](https://github.com/ZombieStriker/QualityArmory/issues/207)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmory#207](https://github.com/ZombieStriker/QualityArmory/issues/207#issuecomment-974657945)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 25th, 2021, 12:18:05 PM
+Last Updated: Friday, November 26th, 2021, 12:37:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

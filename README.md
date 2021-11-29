@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#208](https://github.com/ZombieStriker/QualityArmory/issues/208)
-2. ![comment] **Commented:** [ZombieStriker/QualityArmory#212](https://github.com/ZombieStriker/QualityArmory/issues/212#issuecomment-980848778)
-3. ![prOpened] **Pull request opened:** [ServerJars/updater#20](https://github.com/ServerJars/updater/pull/20)
-4. ![release] Released [v1.1.1](https://github.com/Lorenzo0111/QualityArmoryWorldGuard/releases/tag/v1.1.1) in [Lorenzo0111/QualityArmoryWorldGuard](https://github.com/Lorenzo0111/QualityArmoryWorldGuard)
-5. ![issueClosed] **Issue closed:** [Lorenzo0111/QualityArmoryWorldGuard#1](https://github.com/Lorenzo0111/QualityArmoryWorldGuard/issues/1)
-6. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#211](https://github.com/ZombieStriker/QualityArmory/issues/211)
-7. ![comment] **Commented:** [ZombieStriker/QualityArmory#211](https://github.com/ZombieStriker/QualityArmory/issues/211#issuecomment-980636181)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/HangarUpdater#13](https://github.com/Lorenzo0111/HangarUpdater/pull/13)
-9. ![comment] **Commented:** [Lorenzo0111/RocketJoin#44](https://github.com/Lorenzo0111/RocketJoin/issues/44#issuecomment-980173580)
-10. ![comment] **Commented:** [Lorenzo0111/RocketJoin#44](https://github.com/Lorenzo0111/RocketJoin/issues/44#issuecomment-980170757)
+1. ![release] Released [v1.6](https://github.com/Lorenzo0111/ElectionsPlus/releases/tag/1.6) in [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
+2. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#208](https://github.com/ZombieStriker/QualityArmory/issues/208)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmory#212](https://github.com/ZombieStriker/QualityArmory/issues/212#issuecomment-980848778)
+4. ![prOpened] **Pull request opened:** [ServerJars/updater#20](https://github.com/ServerJars/updater/pull/20)
+5. ![release] Released [v1.1.1](https://github.com/Lorenzo0111/QualityArmoryWorldGuard/releases/tag/v1.1.1) in [Lorenzo0111/QualityArmoryWorldGuard](https://github.com/Lorenzo0111/QualityArmoryWorldGuard)
+6. ![issueClosed] **Issue closed:** [Lorenzo0111/QualityArmoryWorldGuard#1](https://github.com/Lorenzo0111/QualityArmoryWorldGuard/issues/1)
+7. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#211](https://github.com/ZombieStriker/QualityArmory/issues/211)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmory#211](https://github.com/ZombieStriker/QualityArmory/issues/211#issuecomment-980636181)
+9. ![prMerged] **Pull request merged:** [Lorenzo0111/HangarUpdater#13](https://github.com/Lorenzo0111/HangarUpdater/pull/13)
+10. ![comment] **Commented:** [Lorenzo0111/RocketJoin#44](https://github.com/Lorenzo0111/RocketJoin/issues/44#issuecomment-980173580)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 28th, 2021, 12:16:57 PM
+Last Updated: Monday, November 29th, 2021, 12:38:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

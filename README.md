@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [sgtcaze/NametagEdit#673](https://github.com/sgtcaze/NametagEdit/issues/673#issuecomment-983318342)
-2. ![issueClosed] **Issue closed:** [Lorenzo0111/ZombieStrikerBot#1](https://github.com/Lorenzo0111/ZombieStrikerBot/issues/1)
-3. ![release] Released [v1.6](https://github.com/Lorenzo0111/ElectionsPlus/releases/tag/1.6) in [Lorenzo0111/ElectionsPlus](https://github.com/Lorenzo0111/ElectionsPlus)
-4. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#208](https://github.com/ZombieStriker/QualityArmory/issues/208)
-5. ![comment] **Commented:** [ZombieStriker/QualityArmory#212](https://github.com/ZombieStriker/QualityArmory/issues/212#issuecomment-980848778)
-6. ![prOpened] **Pull request opened:** [ServerJars/updater#20](https://github.com/ServerJars/updater/pull/20)
-7. ![release] Released [v1.1.1](https://github.com/Lorenzo0111/QualityArmoryWorldGuard/releases/tag/v1.1.1) in [Lorenzo0111/QualityArmoryWorldGuard](https://github.com/Lorenzo0111/QualityArmoryWorldGuard)
-8. ![issueClosed] **Issue closed:** [Lorenzo0111/QualityArmoryWorldGuard#1](https://github.com/Lorenzo0111/QualityArmoryWorldGuard/issues/1)
-9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#211](https://github.com/ZombieStriker/QualityArmory/issues/211)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#211](https://github.com/ZombieStriker/QualityArmory/issues/211#issuecomment-980636181)
+1. ![release] Released [v2.3 - 1.18 Support](https://github.com/Lorenzo0111/RocketJoin/releases/tag/2.3) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
+2. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#213](https://github.com/ZombieStriker/QualityArmory/issues/213)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmory#213](https://github.com/ZombieStriker/QualityArmory/issues/213#issuecomment-983802150)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#46](https://github.com/Lorenzo0111/RocketJoin/pull/46)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#45](https://github.com/Lorenzo0111/RocketJoin/pull/45)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#60](https://github.com/Lorenzo0111/ElectionsPlus/pull/60)
+7. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#36](https://github.com/Lorenzo0111/NodeBin/pull/36)
+8. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#48](https://github.com/harry0198/InfoHeads/pull/48)
+9. ![prMerged] **Pull request merged:** [RocketPluginsMC/RocketPlaceholdersAPI-Cookbook#7](https://github.com/RocketPluginsMC/RocketPlaceholdersAPI-Cookbook/pull/7)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#50](https://github.com/Lorenzo0111/RocketPlaceholders/pull/50)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 1st, 2021, 12:18:40 PM
+Last Updated: Thursday, December 2nd, 2021, 12:38:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

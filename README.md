@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [sgtcaze/NametagEdit#676](https://github.com/sgtcaze/NametagEdit/issues/676#issuecomment-984906710)
-2. ![comment] **Commented:** [sgtcaze/NametagEdit#673](https://github.com/sgtcaze/NametagEdit/issues/673#issuecomment-984324806)
-3. ![release] Released [v2.3 - 1.18 Support](https://github.com/Lorenzo0111/RocketJoin/releases/tag/2.3) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
-4. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#213](https://github.com/ZombieStriker/QualityArmory/issues/213)
-5. ![comment] **Commented:** [ZombieStriker/QualityArmory#213](https://github.com/ZombieStriker/QualityArmory/issues/213#issuecomment-983802150)
-6. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#46](https://github.com/Lorenzo0111/RocketJoin/pull/46)
-7. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#45](https://github.com/Lorenzo0111/RocketJoin/pull/45)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#60](https://github.com/Lorenzo0111/ElectionsPlus/pull/60)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#36](https://github.com/Lorenzo0111/NodeBin/pull/36)
-10. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#48](https://github.com/harry0198/InfoHeads/pull/48)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmory#206](https://github.com/ZombieStriker/QualityArmory/issues/206#issuecomment-985390221)
+2. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#62](https://github.com/Lorenzo0111/ElectionsPlus/pull/62)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#48](https://github.com/Lorenzo0111/MultiLang/pull/48)
+4. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#49](https://github.com/harry0198/InfoHeads/pull/49)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#51](https://github.com/Lorenzo0111/RocketPlaceholders/pull/51)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#63](https://github.com/Lorenzo0111/ElectionsPlus/pull/63)
+7. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#50](https://github.com/harry0198/InfoHeads/pull/50)
+8. ![prMerged] **Pull request merged:** [Lorenzo0111/JShader#9](https://github.com/Lorenzo0111/JShader/pull/9)
+9. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#47](https://github.com/Lorenzo0111/MultiLang/pull/47)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#61](https://github.com/Lorenzo0111/ElectionsPlus/pull/61)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 3rd, 2021, 12:38:55 AM
+Last Updated: Friday, December 3rd, 2021, 12:18:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

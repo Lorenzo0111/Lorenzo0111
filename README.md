@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [v2.0.4](https://github.com/ZombieStriker/QualityArmory/releases/tag/v2.0.4) in [ZombieStriker/QualityArmory](https://github.com/ZombieStriker/QualityArmory)
-2. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#64](https://github.com/Lorenzo0111/ElectionsPlus/pull/64)
-3. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#206](https://github.com/ZombieStriker/QualityArmory/issues/206)
-4. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#202](https://github.com/ZombieStriker/QualityArmory/issues/202)
-5. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#191](https://github.com/ZombieStriker/QualityArmory/issues/191)
-6. ![comment] **Commented:** [ZombieStriker/QualityArmory#191](https://github.com/ZombieStriker/QualityArmory/issues/191#issuecomment-986755241)
-7. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#177](https://github.com/ZombieStriker/QualityArmory/issues/177)
-8. ![comment] **Commented:** [ZombieStriker/QualityArmory#177](https://github.com/ZombieStriker/QualityArmory/issues/177#issuecomment-986753651)
-9. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmoryVehicles2#71](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/71)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#206](https://github.com/ZombieStriker/QualityArmory/issues/206#issuecomment-986747926)
+1. ![issueOpened] **Issue opened:** [ZombieStriker/QualityArmory#223](https://github.com/ZombieStriker/QualityArmory/issues/223)
+2. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#52](https://github.com/harry0198/InfoHeads/pull/52)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#37](https://github.com/Lorenzo0111/NodeBin/pull/37)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#53](https://github.com/Lorenzo0111/RocketPlaceholders/pull/53)
+5. ![release] Released [v2.0.4](https://github.com/ZombieStriker/QualityArmory/releases/tag/v2.0.4) in [ZombieStriker/QualityArmory](https://github.com/ZombieStriker/QualityArmory)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#64](https://github.com/Lorenzo0111/ElectionsPlus/pull/64)
+7. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#206](https://github.com/ZombieStriker/QualityArmory/issues/206)
+8. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#202](https://github.com/ZombieStriker/QualityArmory/issues/202)
+9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#191](https://github.com/ZombieStriker/QualityArmory/issues/191)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmory#191](https://github.com/ZombieStriker/QualityArmory/issues/191#issuecomment-986755241)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 7th, 2021, 12:41:24 AM
+Last Updated: Tuesday, December 7th, 2021, 12:19:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

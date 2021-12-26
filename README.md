@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] **Pull request merged:** [RocketPluginsMC/RocketPlaceholdersAPI-Cookbook#10](https://github.com/RocketPluginsMC/RocketPlaceholdersAPI-Cookbook/pull/10)
-2. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmoryVehicles2#80](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/80)
-3. ![prMerged] **Pull request merged:** [RocketPluginsMC/RocketPlaceholdersAPI-Cookbook#9](https://github.com/RocketPluginsMC/RocketPlaceholdersAPI-Cookbook/pull/9)
-4. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#43](https://github.com/Lorenzo0111/NodeBin/pull/43)
-5. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#51](https://github.com/Lorenzo0111/RocketJoin/pull/51)
-6. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#59](https://github.com/Lorenzo0111/RocketPlaceholders/pull/59)
-7. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#232](https://github.com/ZombieStriker/QualityArmory/issues/232)
-8. ![comment] **Commented:** [ZombieStriker/QualityArmory#232](https://github.com/ZombieStriker/QualityArmory/issues/232#issuecomment-1000127708)
-9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#231](https://github.com/ZombieStriker/QualityArmory/issues/231)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#231](https://github.com/ZombieStriker/QualityArmory/issues/231#issuecomment-999328551)
+1. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#54](https://github.com/harry0198/InfoHeads/pull/54)
+2. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#53](https://github.com/harry0198/InfoHeads/pull/53)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#54](https://github.com/Lorenzo0111/RocketPlaceholders/pull/54)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#57](https://github.com/Lorenzo0111/RocketPlaceholders/pull/57)
+5. ![prMerged] **Pull request merged:** [RocketPluginsMC/RocketPlaceholdersAPI-Cookbook#10](https://github.com/RocketPluginsMC/RocketPlaceholdersAPI-Cookbook/pull/10)
+6. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmoryVehicles2#80](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/80)
+7. ![prMerged] **Pull request merged:** [RocketPluginsMC/RocketPlaceholdersAPI-Cookbook#9](https://github.com/RocketPluginsMC/RocketPlaceholdersAPI-Cookbook/pull/9)
+8. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#43](https://github.com/Lorenzo0111/NodeBin/pull/43)
+9. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#51](https://github.com/Lorenzo0111/RocketJoin/pull/51)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#59](https://github.com/Lorenzo0111/RocketPlaceholders/pull/59)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 25th, 2021, 12:17:47 PM
+Last Updated: Sunday, December 26th, 2021, 12:43:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] **Pull request merged:** [Lorenzo0111/HangarUpdater#15](https://github.com/Lorenzo0111/HangarUpdater/pull/15)
-2. ![prMerged] **Pull request merged:** [Lorenzo0111/JShader#11](https://github.com/Lorenzo0111/JShader/pull/11)
-3. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#52](https://github.com/Lorenzo0111/MultiLang/pull/52)
-4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#49](https://github.com/Lorenzo0111/RocketJoin/pull/49)
-5. ![prMerged] **Pull request merged:** [Lorenzo0111/HangarUpdater#14](https://github.com/Lorenzo0111/HangarUpdater/pull/14)
-6. ![prMerged] **Pull request merged:** [Lorenzo0111/JShader#10](https://github.com/Lorenzo0111/JShader/pull/10)
-7. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#40](https://github.com/Lorenzo0111/NodeBin/pull/40)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#51](https://github.com/Lorenzo0111/MultiLang/pull/51)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#66](https://github.com/Lorenzo0111/ElectionsPlus/pull/66)
-10. ![prMerged] **Pull request merged:** [RocketPluginsMC/RocketPlaceholdersAPI-Cookbook#8](https://github.com/RocketPluginsMC/RocketPlaceholdersAPI-Cookbook/pull/8)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#81](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/81#issuecomment-1001716344)
+2. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#55](https://github.com/Lorenzo0111/MultiLang/pull/55)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/HangarUpdater#15](https://github.com/Lorenzo0111/HangarUpdater/pull/15)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/JShader#11](https://github.com/Lorenzo0111/JShader/pull/11)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#52](https://github.com/Lorenzo0111/MultiLang/pull/52)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#49](https://github.com/Lorenzo0111/RocketJoin/pull/49)
+7. ![prMerged] **Pull request merged:** [Lorenzo0111/HangarUpdater#14](https://github.com/Lorenzo0111/HangarUpdater/pull/14)
+8. ![prMerged] **Pull request merged:** [Lorenzo0111/JShader#10](https://github.com/Lorenzo0111/JShader/pull/10)
+9. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#40](https://github.com/Lorenzo0111/NodeBin/pull/40)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#51](https://github.com/Lorenzo0111/MultiLang/pull/51)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 27th, 2021, 12:19:07 PM
+Last Updated: Tuesday, December 28th, 2021, 12:41:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

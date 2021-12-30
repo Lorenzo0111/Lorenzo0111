@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [sgtcaze/NametagEdit#697](https://github.com/sgtcaze/NametagEdit/issues/697#issuecomment-1002236974)
-2. ![comment] **Commented:** [sgtcaze/NametagEdit#697](https://github.com/sgtcaze/NametagEdit/issues/697#issuecomment-1002086832)
-3. ![comment] **Commented:** [sgtcaze/NametagEdit#696](https://github.com/sgtcaze/NametagEdit/issues/696#issuecomment-1001975616)
-4. ![comment] **Commented:** [sgtcaze/NametagEdit#696](https://github.com/sgtcaze/NametagEdit/issues/696#issuecomment-1001975536)
-5. ![comment] **Commented:** [ZombieStriker/QualityArmory#234](https://github.com/ZombieStriker/QualityArmory/issues/234#issuecomment-1001916499)
-6. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#81](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/81#issuecomment-1001716344)
-7. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#55](https://github.com/Lorenzo0111/MultiLang/pull/55)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/HangarUpdater#15](https://github.com/Lorenzo0111/HangarUpdater/pull/15)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/JShader#11](https://github.com/Lorenzo0111/JShader/pull/11)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#52](https://github.com/Lorenzo0111/MultiLang/pull/52)
+1. ![comment] **Commented:** [sgtcaze/NametagEdit#697](https://github.com/sgtcaze/NametagEdit/issues/697#issuecomment-1002720010)
+2. ![release] Released [v1.6.4](https://github.com/Lorenzo0111/MultiLang/releases/tag/v1.6.4) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#56](https://github.com/Lorenzo0111/MultiLang/pull/56)
+4. ![comment] **Commented:** [sgtcaze/NametagEdit#697](https://github.com/sgtcaze/NametagEdit/issues/697#issuecomment-1002236974)
+5. ![comment] **Commented:** [sgtcaze/NametagEdit#697](https://github.com/sgtcaze/NametagEdit/issues/697#issuecomment-1002086832)
+6. ![comment] **Commented:** [sgtcaze/NametagEdit#696](https://github.com/sgtcaze/NametagEdit/issues/696#issuecomment-1001975616)
+7. ![comment] **Commented:** [sgtcaze/NametagEdit#696](https://github.com/sgtcaze/NametagEdit/issues/696#issuecomment-1001975536)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmory#234](https://github.com/ZombieStriker/QualityArmory/issues/234#issuecomment-1001916499)
+9. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#81](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/81#issuecomment-1001716344)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#55](https://github.com/Lorenzo0111/MultiLang/pull/55)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 29th, 2021, 12:19:32 PM
+Last Updated: Thursday, December 30th, 2021, 12:41:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

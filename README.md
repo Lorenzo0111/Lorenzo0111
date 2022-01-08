@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#74](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/74#issuecomment-1007660878)
-2. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#85](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/85#issuecomment-1007660089)
-3. ![comment] **Commented:** [ZombieStriker/QualityArmory#243](https://github.com/ZombieStriker/QualityArmory/issues/243#issuecomment-1007606704)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmory#243](https://github.com/ZombieStriker/QualityArmory/issues/243#issuecomment-1007606518)
-5. ![comment] **Commented:** [ZombieStriker/QualityArmory#244](https://github.com/ZombieStriker/QualityArmory/issues/244#issuecomment-1007604441)
-6. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#81](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/81#issuecomment-1007554233)
-7. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#74](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/74#issuecomment-1007551781)
-8. ![release] Released [v2.0.5.1](https://github.com/ZombieStriker/QualityArmory/releases/tag/v2.0.5.1) in [ZombieStriker/QualityArmory](https://github.com/ZombieStriker/QualityArmory)
-9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#242](https://github.com/ZombieStriker/QualityArmory/issues/242)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#242](https://github.com/ZombieStriker/QualityArmory/issues/242#issuecomment-1007526557)
+1. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmory#245](https://github.com/ZombieStriker/QualityArmory/pull/245)
+2. ![prMerged] **Pull request merged:** [harry0198/InfoHeads#59](https://github.com/harry0198/InfoHeads/pull/59)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmory#246](https://github.com/ZombieStriker/QualityArmory/issues/246#issuecomment-1007904352)
+4. ![comment] **Commented:** [ZombieStriker/QualityArmory#246](https://github.com/ZombieStriker/QualityArmory/issues/246#issuecomment-1007904326)
+5. ![release] Released [v2.1](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/2.1) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
+6. ![comment] **Commented:** [ZombieStriker/QualityArmory#229](https://github.com/ZombieStriker/QualityArmory/issues/229#issuecomment-1007903028)
+7. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#74](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/74#issuecomment-1007903009)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#74](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/74#issuecomment-1007660878)
+9. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#85](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/85#issuecomment-1007660089)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmory#243](https://github.com/ZombieStriker/QualityArmory/issues/243#issuecomment-1007606704)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 8th, 2022, 12:42:13 AM
+Last Updated: Saturday, January 8th, 2022, 12:18:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

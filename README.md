@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [shlinkio/shlink#1335](https://github.com/shlinkio/shlink/issues/1335#issuecomment-1013929659)
-2. ![comment] **Commented:** [shlinkio/shlink#1335](https://github.com/shlinkio/shlink/issues/1335#issuecomment-1013928526)
-3. ![comment] **Commented:** [shlinkio/shlink#1335](https://github.com/shlinkio/shlink/issues/1335#issuecomment-1013924265)
-4. ![issueOpened] **Issue opened:** [shlinkio/shlink#1335](https://github.com/shlinkio/shlink/issues/1335)
-5. ![comment] **Commented:** [ZombieStriker/QualityArmory#256](https://github.com/ZombieStriker/QualityArmory/issues/256#issuecomment-1013900885)
-6. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#195](https://github.com/ZombieStriker/QualityArmory/issues/195)
-7. ![comment] **Commented:** [ZombieStriker/QualityArmory#195](https://github.com/ZombieStriker/QualityArmory/issues/195#issuecomment-1013898117)
-8. ![comment] **Commented:** [ZombieStriker/QualityArmory#180](https://github.com/ZombieStriker/QualityArmory/issues/180#issuecomment-1013897109)
-9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#180](https://github.com/ZombieStriker/QualityArmory/issues/180)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#257](https://github.com/ZombieStriker/QualityArmory/issues/257#issuecomment-1013851538)
+1. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmory#260](https://github.com/ZombieStriker/QualityArmory/pull/260)
+2. ![prOpened] **Pull request opened:** [ZombieStriker/QualityArmory#260](https://github.com/ZombieStriker/QualityArmory/pull/260)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmory#259](https://github.com/ZombieStriker/QualityArmory/issues/259#issuecomment-1014167266)
+4. ![comment] **Commented:** [shlinkio/shlink#1335](https://github.com/shlinkio/shlink/issues/1335#issuecomment-1013929659)
+5. ![comment] **Commented:** [shlinkio/shlink#1335](https://github.com/shlinkio/shlink/issues/1335#issuecomment-1013928526)
+6. ![comment] **Commented:** [shlinkio/shlink#1335](https://github.com/shlinkio/shlink/issues/1335#issuecomment-1013924265)
+7. ![issueOpened] **Issue opened:** [shlinkio/shlink#1335](https://github.com/shlinkio/shlink/issues/1335)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmory#256](https://github.com/ZombieStriker/QualityArmory/issues/256#issuecomment-1013900885)
+9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#195](https://github.com/ZombieStriker/QualityArmory/issues/195)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmory#195](https://github.com/ZombieStriker/QualityArmory/issues/195#issuecomment-1013898117)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 17th, 2022, 12:43:14 AM
+Last Updated: Monday, January 17th, 2022, 12:20:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

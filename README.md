@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#93](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/93#issuecomment-1024285060)
-2. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#94](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/94#issuecomment-1024283898)
-3. ![comment] **Commented:** [ZombieStriker/QualityArmory#271](https://github.com/ZombieStriker/QualityArmory/issues/271#issuecomment-1023023989)
-4. ![issueClosed] **Issue closed:** [BeYkeRYkt/LightAPI#25](https://github.com/BeYkeRYkt/LightAPI/issues/25)
-5. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#93](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/93#issuecomment-1021496990)
-6. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#266](https://github.com/ZombieStriker/QualityArmory/issues/266)
-7. ![release] Released [v1.0](https://github.com/Lorenzo0111/SpigotUpdatesBot/releases/tag/v1.0) in [Lorenzo0111/SpigotUpdatesBot](https://github.com/Lorenzo0111/SpigotUpdatesBot)
-8. ![release] Released [v1.0](https://github.com/Lorenzo0111/SpigotUpdatesBot/releases/tag/v1.0) in [Lorenzo0111/SpigotUpdatesBot](https://github.com/Lorenzo0111/SpigotUpdatesBot)
-9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#265](https://github.com/ZombieStriker/QualityArmory/issues/265)
-10. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#261](https://github.com/ZombieStriker/QualityArmory/issues/261)
+1. ![comment] **Commented:** [Ticxo/Model-Engine-Wiki#12](https://github.com/Ticxo/Model-Engine-Wiki/issues/12#issuecomment-1024978364)
+2. ![issueClosed] **Issue closed:** [Ticxo/Model-Engine-Wiki#12](https://github.com/Ticxo/Model-Engine-Wiki/issues/12)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#93](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/93#issuecomment-1024962893)
+4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#94](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/94#issuecomment-1024962653)
+5. ![issueOpened] **Issue opened:** [Ticxo/Model-Engine-Wiki#12](https://github.com/Ticxo/Model-Engine-Wiki/issues/12)
+6. ![issueOpened] **Issue opened:** [Ticxo/Model-Engine-Wiki#11](https://github.com/Ticxo/Model-Engine-Wiki/issues/11)
+7. ![release] Released [Added a pre-hosted version](https://github.com/Lorenzo0111/SpigotUpdatesBot/releases/tag/v1.1) in [Lorenzo0111/SpigotUpdatesBot](https://github.com/Lorenzo0111/SpigotUpdatesBot)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#93](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/93#issuecomment-1024285060)
+9. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#94](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/94#issuecomment-1024283898)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmory#271](https://github.com/ZombieStriker/QualityArmory/issues/271#issuecomment-1023023989)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 29th, 2022, 12:16:25 PM
+Last Updated: Sunday, January 30th, 2022, 12:40:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

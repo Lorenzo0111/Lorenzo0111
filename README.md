@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [Ticxo/Model-Engine-Wiki#12](https://github.com/Ticxo/Model-Engine-Wiki/issues/12#issuecomment-1024978364)
-2. ![issueClosed] **Issue closed:** [Ticxo/Model-Engine-Wiki#12](https://github.com/Ticxo/Model-Engine-Wiki/issues/12)
-3. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#93](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/93#issuecomment-1024962893)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#94](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/94#issuecomment-1024962653)
-5. ![issueOpened] **Issue opened:** [Ticxo/Model-Engine-Wiki#12](https://github.com/Ticxo/Model-Engine-Wiki/issues/12)
-6. ![issueOpened] **Issue opened:** [Ticxo/Model-Engine-Wiki#11](https://github.com/Ticxo/Model-Engine-Wiki/issues/11)
-7. ![release] Released [Added a pre-hosted version](https://github.com/Lorenzo0111/SpigotUpdatesBot/releases/tag/v1.1) in [Lorenzo0111/SpigotUpdatesBot](https://github.com/Lorenzo0111/SpigotUpdatesBot)
-8. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#93](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/93#issuecomment-1024285060)
-9. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#94](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/94#issuecomment-1024283898)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#271](https://github.com/ZombieStriker/QualityArmory/issues/271#issuecomment-1023023989)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmory#248](https://github.com/ZombieStriker/QualityArmory/issues/248#issuecomment-1025128589)
+2. ![comment] **Commented:** [ZombieStriker/QualityArmory#258](https://github.com/ZombieStriker/QualityArmory/issues/258#issuecomment-1025128232)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmory#269](https://github.com/ZombieStriker/QualityArmory/issues/269#issuecomment-1025127654)
+4. ![comment] **Commented:** [ZombieStriker/QualityArmory#268](https://github.com/ZombieStriker/QualityArmory/issues/268#issuecomment-1025125872)
+5. ![comment] **Commented:** [Ticxo/Model-Engine-Wiki#12](https://github.com/Ticxo/Model-Engine-Wiki/issues/12#issuecomment-1024978364)
+6. ![issueClosed] **Issue closed:** [Ticxo/Model-Engine-Wiki#12](https://github.com/Ticxo/Model-Engine-Wiki/issues/12)
+7. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#93](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/93#issuecomment-1024962893)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#94](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/94#issuecomment-1024962653)
+9. ![issueOpened] **Issue opened:** [Ticxo/Model-Engine-Wiki#12](https://github.com/Ticxo/Model-Engine-Wiki/issues/12)
+10. ![issueOpened] **Issue opened:** [Ticxo/Model-Engine-Wiki#11](https://github.com/Ticxo/Model-Engine-Wiki/issues/11)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 30th, 2022, 12:40:51 AM
+Last Updated: Sunday, January 30th, 2022, 12:16:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#276](https://github.com/ZombieStriker/QualityArmory/issues/276)
-2. ![comment] **Commented:** [ZombieStriker/QualityArmory#276](https://github.com/ZombieStriker/QualityArmory/issues/276#issuecomment-1029356987)
-3. ![issueClosed] **Issue closed:** [Lorenzo0111/MultiLang#57](https://github.com/Lorenzo0111/MultiLang/issues/57)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmory#258](https://github.com/ZombieStriker/QualityArmory/issues/258#issuecomment-1027634006)
-5. ![issueClosed] **Issue closed:** [Ticxo/Model-Engine-Wiki#11](https://github.com/Ticxo/Model-Engine-Wiki/issues/11)
-6. ![release] Released [WebAPI](https://github.com/Lorenzo0111/SpigotUpdatesBot/releases/tag/v1.2) in [Lorenzo0111/SpigotUpdatesBot](https://github.com/Lorenzo0111/SpigotUpdatesBot)
-7. ![comment] **Commented:** [ZombieStriker/QualityArmory#258](https://github.com/ZombieStriker/QualityArmory/issues/258#issuecomment-1025425959)
-8. ![comment] **Commented:** [ZombieStriker/QualityArmory#248](https://github.com/ZombieStriker/QualityArmory/issues/248#issuecomment-1025128589)
-9. ![comment] **Commented:** [ZombieStriker/QualityArmory#258](https://github.com/ZombieStriker/QualityArmory/issues/258#issuecomment-1025128232)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#269](https://github.com/ZombieStriker/QualityArmory/issues/269#issuecomment-1025127654)
+1. ![release] Released [v1.7 - RealTime translation](https://github.com/Lorenzo0111/MultiLang/releases/tag/v1.7) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
+2. ![comment] **Commented:** [Lorenzo0111/MultiLang#70](https://github.com/Lorenzo0111/MultiLang/pull/70#issuecomment-1029834694)
+3. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#90](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/90)
+4. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#276](https://github.com/ZombieStriker/QualityArmory/issues/276)
+5. ![comment] **Commented:** [ZombieStriker/QualityArmory#276](https://github.com/ZombieStriker/QualityArmory/issues/276#issuecomment-1029356987)
+6. ![issueClosed] **Issue closed:** [Lorenzo0111/MultiLang#57](https://github.com/Lorenzo0111/MultiLang/issues/57)
+7. ![comment] **Commented:** [ZombieStriker/QualityArmory#258](https://github.com/ZombieStriker/QualityArmory/issues/258#issuecomment-1027634006)
+8. ![issueClosed] **Issue closed:** [Ticxo/Model-Engine-Wiki#11](https://github.com/Ticxo/Model-Engine-Wiki/issues/11)
+9. ![release] Released [WebAPI](https://github.com/Lorenzo0111/SpigotUpdatesBot/releases/tag/v1.2) in [Lorenzo0111/SpigotUpdatesBot](https://github.com/Lorenzo0111/SpigotUpdatesBot)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmory#258](https://github.com/ZombieStriker/QualityArmory/issues/258#issuecomment-1025425959)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 4th, 2022, 12:41:19 AM
+Last Updated: Friday, February 4th, 2022, 12:16:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

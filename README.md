@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [v1.7 - RealTime translation](https://github.com/Lorenzo0111/MultiLang/releases/tag/v1.7) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
-2. ![comment] **Commented:** [Lorenzo0111/MultiLang#70](https://github.com/Lorenzo0111/MultiLang/pull/70#issuecomment-1029834694)
-3. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#90](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/90)
-4. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#276](https://github.com/ZombieStriker/QualityArmory/issues/276)
-5. ![comment] **Commented:** [ZombieStriker/QualityArmory#276](https://github.com/ZombieStriker/QualityArmory/issues/276#issuecomment-1029356987)
-6. ![issueClosed] **Issue closed:** [Lorenzo0111/MultiLang#57](https://github.com/Lorenzo0111/MultiLang/issues/57)
-7. ![comment] **Commented:** [ZombieStriker/QualityArmory#258](https://github.com/ZombieStriker/QualityArmory/issues/258#issuecomment-1027634006)
-8. ![issueClosed] **Issue closed:** [Ticxo/Model-Engine-Wiki#11](https://github.com/Ticxo/Model-Engine-Wiki/issues/11)
-9. ![release] Released [WebAPI](https://github.com/Lorenzo0111/SpigotUpdatesBot/releases/tag/v1.2) in [Lorenzo0111/SpigotUpdatesBot](https://github.com/Lorenzo0111/SpigotUpdatesBot)
-10. ![comment] **Commented:** [ZombieStriker/QualityArmory#258](https://github.com/ZombieStriker/QualityArmory/issues/258#issuecomment-1025425959)
+1. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#69](https://github.com/Lorenzo0111/RocketPlaceholders/pull/69)
+2. ![prMerged] **Pull request merged:** [Lorenzo0111/DownloadTracker#40](https://github.com/Lorenzo0111/DownloadTracker/pull/40)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/DownloadTracker#48](https://github.com/Lorenzo0111/DownloadTracker/pull/48)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#68](https://github.com/Lorenzo0111/RocketPlaceholders/pull/68)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#70](https://github.com/Lorenzo0111/RocketPlaceholders/pull/70)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#71](https://github.com/Lorenzo0111/RocketPlaceholders/pull/71)
+7. ![prMerged] **Pull request merged:** [Lorenzo0111/HangarUpdater#17](https://github.com/Lorenzo0111/HangarUpdater/pull/17)
+8. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#61](https://github.com/Lorenzo0111/NodeBin/pull/61)
+9. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#54](https://github.com/Lorenzo0111/NodeBin/pull/54)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#62](https://github.com/Lorenzo0111/NodeBin/pull/62)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 4th, 2022, 12:16:22 PM
+Last Updated: Saturday, February 5th, 2022, 12:35:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

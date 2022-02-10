@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#72](https://github.com/Lorenzo0111/MultiLang/pull/72)
-2. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#73](https://github.com/Lorenzo0111/MultiLang/pull/73)
-3. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#74](https://github.com/Lorenzo0111/MultiLang/pull/74)
-4. ![comment] **Commented:** [Lorenzo0111/SpigotUpdatesBot#1](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/1#issuecomment-1030671954)
-5. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#69](https://github.com/Lorenzo0111/RocketPlaceholders/pull/69)
-6. ![prMerged] **Pull request merged:** [Lorenzo0111/DownloadTracker#40](https://github.com/Lorenzo0111/DownloadTracker/pull/40)
-7. ![prMerged] **Pull request merged:** [Lorenzo0111/DownloadTracker#48](https://github.com/Lorenzo0111/DownloadTracker/pull/48)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#68](https://github.com/Lorenzo0111/RocketPlaceholders/pull/68)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#70](https://github.com/Lorenzo0111/RocketPlaceholders/pull/70)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#71](https://github.com/Lorenzo0111/RocketPlaceholders/pull/71)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#95](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/95#issuecomment-1033863209)
+2. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#72](https://github.com/Lorenzo0111/MultiLang/pull/72)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#73](https://github.com/Lorenzo0111/MultiLang/pull/73)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#74](https://github.com/Lorenzo0111/MultiLang/pull/74)
+5. ![comment] **Commented:** [Lorenzo0111/SpigotUpdatesBot#1](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/1#issuecomment-1030671954)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#69](https://github.com/Lorenzo0111/RocketPlaceholders/pull/69)
+7. ![prMerged] **Pull request merged:** [Lorenzo0111/DownloadTracker#40](https://github.com/Lorenzo0111/DownloadTracker/pull/40)
+8. ![prMerged] **Pull request merged:** [Lorenzo0111/DownloadTracker#48](https://github.com/Lorenzo0111/DownloadTracker/pull/48)
+9. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#68](https://github.com/Lorenzo0111/RocketPlaceholders/pull/68)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#70](https://github.com/Lorenzo0111/RocketPlaceholders/pull/70)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 9th, 2022, 12:18:03 PM
+Last Updated: Thursday, February 10th, 2022, 12:43:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

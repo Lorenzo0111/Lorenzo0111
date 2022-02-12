@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [Lorenzo0111/LegacyQAVConverter](https://github.com/Lorenzo0111/LegacyQAVConverter)
-2. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#95](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/95#issuecomment-1033863209)
-3. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#72](https://github.com/Lorenzo0111/MultiLang/pull/72)
-4. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#73](https://github.com/Lorenzo0111/MultiLang/pull/73)
-5. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#74](https://github.com/Lorenzo0111/MultiLang/pull/74)
-6. ![comment] **Commented:** [Lorenzo0111/SpigotUpdatesBot#1](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/1#issuecomment-1030671954)
-7. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#69](https://github.com/Lorenzo0111/RocketPlaceholders/pull/69)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/DownloadTracker#40](https://github.com/Lorenzo0111/DownloadTracker/pull/40)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/DownloadTracker#48](https://github.com/Lorenzo0111/DownloadTracker/pull/48)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#68](https://github.com/Lorenzo0111/RocketPlaceholders/pull/68)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmory#281](https://github.com/ZombieStriker/QualityArmory/issues/281#issuecomment-1036577690)
+2. ![release] Released [v1.7.1 - Database fixes](https://github.com/Lorenzo0111/MultiLang/releases/tag/v1.7.1) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
+3. ![repoCreated] Created new repository [Lorenzo0111/LegacyQAVConverter](https://github.com/Lorenzo0111/LegacyQAVConverter)
+4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#95](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/95#issuecomment-1033863209)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#72](https://github.com/Lorenzo0111/MultiLang/pull/72)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#73](https://github.com/Lorenzo0111/MultiLang/pull/73)
+7. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#74](https://github.com/Lorenzo0111/MultiLang/pull/74)
+8. ![comment] **Commented:** [Lorenzo0111/SpigotUpdatesBot#1](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/1#issuecomment-1030671954)
+9. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#69](https://github.com/Lorenzo0111/RocketPlaceholders/pull/69)
+10. ![prMerged] **Pull request merged:** [Lorenzo0111/DownloadTracker#40](https://github.com/Lorenzo0111/DownloadTracker/pull/40)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 11th, 2022, 12:16:58 PM
+Last Updated: Saturday, February 12th, 2022, 12:45:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

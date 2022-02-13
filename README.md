@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [ZombieStriker/QualityArmory#281](https://github.com/ZombieStriker/QualityArmory/issues/281#issuecomment-1036577690)
-2. ![release] Released [v1.7.1 - Database fixes](https://github.com/Lorenzo0111/MultiLang/releases/tag/v1.7.1) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
-3. ![repoCreated] Created new repository [Lorenzo0111/LegacyQAVConverter](https://github.com/Lorenzo0111/LegacyQAVConverter)
-4. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#95](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/95#issuecomment-1033863209)
-5. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#72](https://github.com/Lorenzo0111/MultiLang/pull/72)
-6. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#73](https://github.com/Lorenzo0111/MultiLang/pull/73)
-7. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#74](https://github.com/Lorenzo0111/MultiLang/pull/74)
-8. ![comment] **Commented:** [Lorenzo0111/SpigotUpdatesBot#1](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/1#issuecomment-1030671954)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#69](https://github.com/Lorenzo0111/RocketPlaceholders/pull/69)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/DownloadTracker#40](https://github.com/Lorenzo0111/DownloadTracker/pull/40)
+1. ![prMerged] **Pull request merged:** [Lorenzo0111/SpigotUpdatesBot#3](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/3)
+2. ![prMerged] **Pull request merged:** [Lorenzo0111/SpigotUpdatesBot#2](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/2)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmory#281](https://github.com/ZombieStriker/QualityArmory/issues/281#issuecomment-1036577690)
+4. ![release] Released [v1.7.1 - Database fixes](https://github.com/Lorenzo0111/MultiLang/releases/tag/v1.7.1) in [Lorenzo0111/MultiLang](https://github.com/Lorenzo0111/MultiLang)
+5. ![repoCreated] Created new repository [Lorenzo0111/LegacyQAVConverter](https://github.com/Lorenzo0111/LegacyQAVConverter)
+6. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#95](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/95#issuecomment-1033863209)
+7. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#72](https://github.com/Lorenzo0111/MultiLang/pull/72)
+8. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#73](https://github.com/Lorenzo0111/MultiLang/pull/73)
+9. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#74](https://github.com/Lorenzo0111/MultiLang/pull/74)
+10. ![comment] **Commented:** [Lorenzo0111/SpigotUpdatesBot#1](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/1#issuecomment-1030671954)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 12th, 2022, 12:16:42 PM
+Last Updated: Sunday, February 13th, 2022, 12:46:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

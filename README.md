@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [Lorenzo0111/RocketJoin#59](https://github.com/Lorenzo0111/RocketJoin/pull/59#discussion_r808718752)
-2. ![prMerged] **Pull request merged:** [Lorenzo0111/SpigotUpdatesBot#4](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/4)
-3. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmory#277](https://github.com/ZombieStriker/QualityArmory/pull/277)
-4. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmory#272](https://github.com/ZombieStriker/QualityArmory/pull/272)
-5. ![prClosed] **Pull request closed:** [ZombieStriker/QualityArmory#270](https://github.com/ZombieStriker/QualityArmory/pull/270)
-6. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#280](https://github.com/ZombieStriker/QualityArmory/issues/280)
-7. ![comment] **Commented:** [ZombieStriker/QualityArmory#280](https://github.com/ZombieStriker/QualityArmory/issues/280#issuecomment-1037913609)
-8. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#273](https://github.com/ZombieStriker/QualityArmory/issues/273)
-9. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmory#278](https://github.com/ZombieStriker/QualityArmory/pull/278)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/SpigotUpdatesBot#3](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/3)
+1. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmory#282](https://github.com/ZombieStriker/QualityArmory/pull/282)
+2. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#283](https://github.com/ZombieStriker/QualityArmory/issues/283)
+3. ![comment] **Commented:** [ZombieStriker/QualityArmory#283](https://github.com/ZombieStriker/QualityArmory/issues/283#issuecomment-1043977106)
+4. ![comment] **Commented:** [Lorenzo0111/RocketJoin#59](https://github.com/Lorenzo0111/RocketJoin/pull/59#discussion_r808718752)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/SpigotUpdatesBot#4](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/4)
+6. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmory#277](https://github.com/ZombieStriker/QualityArmory/pull/277)
+7. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmory#272](https://github.com/ZombieStriker/QualityArmory/pull/272)
+8. ![prClosed] **Pull request closed:** [ZombieStriker/QualityArmory#270](https://github.com/ZombieStriker/QualityArmory/pull/270)
+9. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#280](https://github.com/ZombieStriker/QualityArmory/issues/280)
+10. ![comment] **Commented:** [ZombieStriker/QualityArmory#280](https://github.com/ZombieStriker/QualityArmory/issues/280#issuecomment-1037913609)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 18th, 2022, 12:49:31 AM
+Last Updated: Friday, February 18th, 2022, 12:18:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

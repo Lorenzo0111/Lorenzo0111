@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketAPI#9](https://github.com/Lorenzo0111/RocketAPI/pull/9)
-2. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#70](https://github.com/Lorenzo0111/NodeBin/pull/70)
-3. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#79](https://github.com/Lorenzo0111/RocketPlaceholders/pull/79)
-4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#68](https://github.com/Lorenzo0111/RocketJoin/pull/68)
-5. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#69](https://github.com/Lorenzo0111/RocketJoin/pull/69)
-6. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#81](https://github.com/Lorenzo0111/RocketPlaceholders/pull/81#issuecomment-1065823763)
-7. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#79](https://github.com/Lorenzo0111/RocketPlaceholders/pull/79#issuecomment-1065823749)
-8. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#80](https://github.com/Lorenzo0111/RocketPlaceholders/pull/80#issuecomment-1065823724)
-9. ![comment] **Commented:** [Lorenzo0111/RocketJoin#69](https://github.com/Lorenzo0111/RocketJoin/pull/69#issuecomment-1065823705)
-10. ![comment] **Commented:** [Lorenzo0111/RocketJoin#68](https://github.com/Lorenzo0111/RocketJoin/pull/68#issuecomment-1065823672)
+1. ![comment] **Commented:** [ZombieStriker/QualityArmory#300](https://github.com/ZombieStriker/QualityArmory/pull/300#issuecomment-1073317608)
+2. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketAPI#9](https://github.com/Lorenzo0111/RocketAPI/pull/9)
+3. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#70](https://github.com/Lorenzo0111/NodeBin/pull/70)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketPlaceholders#79](https://github.com/Lorenzo0111/RocketPlaceholders/pull/79)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#68](https://github.com/Lorenzo0111/RocketJoin/pull/68)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/RocketJoin#69](https://github.com/Lorenzo0111/RocketJoin/pull/69)
+7. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#81](https://github.com/Lorenzo0111/RocketPlaceholders/pull/81#issuecomment-1065823763)
+8. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#79](https://github.com/Lorenzo0111/RocketPlaceholders/pull/79#issuecomment-1065823749)
+9. ![comment] **Commented:** [Lorenzo0111/RocketPlaceholders#80](https://github.com/Lorenzo0111/RocketPlaceholders/pull/80#issuecomment-1065823724)
+10. ![comment] **Commented:** [Lorenzo0111/RocketJoin#69](https://github.com/Lorenzo0111/RocketJoin/pull/69#issuecomment-1065823705)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 20th, 2022, 12:18:46 PM
+Last Updated: Monday, March 21st, 2022, 12:51:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

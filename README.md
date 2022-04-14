@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] **Commented:** [ZombieStriker/QualityArmory#317](https://github.com/ZombieStriker/QualityArmory/issues/317#issuecomment-1097992966)
-2. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmoryVehicles2#113](https://github.com/ZombieStriker/QualityArmoryVehicles2/pull/113)
-3. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#110](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/110)
-4. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#93](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/93)
-5. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmoryVehicles2#111](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/111)
-6. ![comment] **Commented:** [ZombieStriker/QualityArmoryVehicles2#111](https://github.com/ZombieStriker/QualityArmoryVehicles2/issues/111#issuecomment-1094293314)
-7. ![issueClosed] **Issue closed:** [Lorenzo0111/RocketPlaceholders#67](https://github.com/Lorenzo0111/RocketPlaceholders/issues/67)
-8. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#74](https://github.com/Lorenzo0111/NodeBin/pull/74)
-9. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#75](https://github.com/Lorenzo0111/NodeBin/pull/75)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/ElectionsPlus#83](https://github.com/Lorenzo0111/ElectionsPlus/pull/83)
+1. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#287](https://github.com/ZombieStriker/QualityArmory/issues/287)
+2. ![comment] **Commented:** [ZombieStriker/QualityArmory#287](https://github.com/ZombieStriker/QualityArmory/issues/287#issuecomment-1099094605)
+3. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#258](https://github.com/ZombieStriker/QualityArmory/issues/258)
+4. ![comment] **Commented:** [ZombieStriker/QualityArmory#316](https://github.com/ZombieStriker/QualityArmory/issues/316#issuecomment-1099093988)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#76](https://github.com/Lorenzo0111/NodeBin/pull/76)
+6. ![prMerged] **Pull request merged:** [Lorenzo0111/NodeBin#77](https://github.com/Lorenzo0111/NodeBin/pull/77)
+7. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#320](https://github.com/ZombieStriker/QualityArmory/issues/320)
+8. ![comment] **Commented:** [ZombieStriker/QualityArmory#320](https://github.com/ZombieStriker/QualityArmory/issues/320#issuecomment-1099061672)
+9. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmory#315](https://github.com/ZombieStriker/QualityArmory/pull/315)
+10. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmory#318](https://github.com/ZombieStriker/QualityArmory/pull/318)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 14th, 2022, 1:04:22 AM
+Last Updated: Thursday, April 14th, 2022, 12:25:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

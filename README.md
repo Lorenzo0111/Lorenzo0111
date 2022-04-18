@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prClosed] **Pull request closed:** [Lorenzo0111/RocketPlaceholders#83](https://github.com/Lorenzo0111/RocketPlaceholders/pull/83)
-2. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#80](https://github.com/Lorenzo0111/MultiLang/pull/80)
-3. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#81](https://github.com/Lorenzo0111/MultiLang/pull/81)
-4. ![repoCreated] Created new repository [Lorenzo0111/QAVWiki](https://github.com/Lorenzo0111/QAVWiki)
-5. ![issueOpened] **Issue opened:** [Lorenzo0111/SpigotUpdatesBot#9](https://github.com/Lorenzo0111/SpigotUpdatesBot/issues/9)
-6. ![prMerged] **Pull request merged:** [Lorenzo0111/SpigotUpdatesBot#5](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/5)
-7. ![release] Released [v2.4 - Fixes and features](https://github.com/Lorenzo0111/RocketJoin/releases/tag/2.4) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
-8. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#287](https://github.com/ZombieStriker/QualityArmory/issues/287)
-9. ![comment] **Commented:** [ZombieStriker/QualityArmory#287](https://github.com/ZombieStriker/QualityArmory/issues/287#issuecomment-1099094605)
-10. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#258](https://github.com/ZombieStriker/QualityArmory/issues/258)
+1. ![repoCreated] Created new repository [Lorenzo0111/Nova](https://github.com/Lorenzo0111/Nova)
+2. ![release] Released [v2.2](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/2.2) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
+3. ![prClosed] **Pull request closed:** [Lorenzo0111/RocketPlaceholders#83](https://github.com/Lorenzo0111/RocketPlaceholders/pull/83)
+4. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#80](https://github.com/Lorenzo0111/MultiLang/pull/80)
+5. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#81](https://github.com/Lorenzo0111/MultiLang/pull/81)
+6. ![repoCreated] Created new repository [Lorenzo0111/QAVWiki](https://github.com/Lorenzo0111/QAVWiki)
+7. ![issueOpened] **Issue opened:** [Lorenzo0111/SpigotUpdatesBot#9](https://github.com/Lorenzo0111/SpigotUpdatesBot/issues/9)
+8. ![prMerged] **Pull request merged:** [Lorenzo0111/SpigotUpdatesBot#5](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/5)
+9. ![release] Released [v2.4 - Fixes and features](https://github.com/Lorenzo0111/RocketJoin/releases/tag/2.4) in [Lorenzo0111/RocketJoin](https://github.com/Lorenzo0111/RocketJoin)
+10. ![issueClosed] **Issue closed:** [ZombieStriker/QualityArmory#287](https://github.com/ZombieStriker/QualityArmory/issues/287)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 17th, 2022, 12:20:16 PM
+Last Updated: Monday, April 18th, 2022, 1:05:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

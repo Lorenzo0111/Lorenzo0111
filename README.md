@@ -13,21 +13,21 @@
 <summary>⏰ Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmory#323](https://github.com/ZombieStriker/QualityArmory/pull/323)
-2. ![issueClosed] **Issue closed:** [Lorenzo0111/SpigotUpdatesBot#9](https://github.com/Lorenzo0111/SpigotUpdatesBot/issues/9)
-3. ![repoCreated] Created new repository [Lorenzo0111/Nova](https://github.com/Lorenzo0111/Nova)
-4. ![release] Released [v2.2](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/2.2) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
-5. ![prClosed] **Pull request closed:** [Lorenzo0111/RocketPlaceholders#83](https://github.com/Lorenzo0111/RocketPlaceholders/pull/83)
-6. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#80](https://github.com/Lorenzo0111/MultiLang/pull/80)
-7. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#81](https://github.com/Lorenzo0111/MultiLang/pull/81)
-8. ![repoCreated] Created new repository [Lorenzo0111/QAVWiki](https://github.com/Lorenzo0111/QAVWiki)
-9. ![issueOpened] **Issue opened:** [Lorenzo0111/SpigotUpdatesBot#9](https://github.com/Lorenzo0111/SpigotUpdatesBot/issues/9)
-10. ![prMerged] **Pull request merged:** [Lorenzo0111/SpigotUpdatesBot#5](https://github.com/Lorenzo0111/SpigotUpdatesBot/pull/5)
+1. ![issueOpened] **Issue opened:** [lovell/sharp#3199](https://github.com/lovell/sharp/issues/3199)
+2. ![prMerged] **Pull request merged:** [ZombieStriker/QualityArmory#323](https://github.com/ZombieStriker/QualityArmory/pull/323)
+3. ![issueClosed] **Issue closed:** [Lorenzo0111/SpigotUpdatesBot#9](https://github.com/Lorenzo0111/SpigotUpdatesBot/issues/9)
+4. ![repoCreated] Created new repository [Lorenzo0111/Nova](https://github.com/Lorenzo0111/Nova)
+5. ![release] Released [v2.2](https://github.com/Lorenzo0111/RocketPlaceholders/releases/tag/2.2) in [Lorenzo0111/RocketPlaceholders](https://github.com/Lorenzo0111/RocketPlaceholders)
+6. ![prClosed] **Pull request closed:** [Lorenzo0111/RocketPlaceholders#83](https://github.com/Lorenzo0111/RocketPlaceholders/pull/83)
+7. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#80](https://github.com/Lorenzo0111/MultiLang/pull/80)
+8. ![prMerged] **Pull request merged:** [Lorenzo0111/MultiLang#81](https://github.com/Lorenzo0111/MultiLang/pull/81)
+9. ![repoCreated] Created new repository [Lorenzo0111/QAVWiki](https://github.com/Lorenzo0111/QAVWiki)
+10. ![issueOpened] **Issue opened:** [Lorenzo0111/SpigotUpdatesBot#9](https://github.com/Lorenzo0111/SpigotUpdatesBot/issues/9)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 21st, 2022, 12:23:00 PM
+Last Updated: Friday, April 22nd, 2022, 1:04:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 

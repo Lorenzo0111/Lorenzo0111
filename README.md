@@ -1,7 +1,11 @@
 # 💫 About Me:
 ![](https://komarev.com/ghpvc/?username=Lorenzo0111) [![wakatime](https://wakatime.com/badge/user/9839bef7-5c8c-4e91-a766-88bb9e8c3e1e.svg)](https://wakatime.com/@Lorenzo0111)
 
-I'm Lorenzo. I'm a fullstack developer from Italy
+I'm Lorenzo and I usually develop 
+- 🌐 Fullstack websites
+- 📱 Mobile apps
+- 🎮 Minecraft plugins
+- 🤖 Discord bots
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HT47UQXBqG) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lorenzo0111) 

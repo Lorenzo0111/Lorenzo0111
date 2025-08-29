@@ -13,13 +13,13 @@ Hi there! I'm Lorenzo, a fullstack developer from Italy with a passion for build
 ## 💻 Tech Stack:
 
 ### 🌍 Languages
-![Languages: Java, Typescript, PHP](https://skillicons.dev/icons?i=java,typescript,php)
+![Languages: Java, Typescript, PHP](https://skillicons.dev/icons?i=java,typescript,php,dart)
 
 ### 🛠️ Frameworks
-![Frameworks: Vue, React, Tailwind, Laravel, Next](https://skillicons.dev/icons?i=vuejs,react,tailwind,laravel,nextjs)
+![Frameworks: Vue, React, Tailwind, Laravel, Next](https://skillicons.dev/icons?i=react,tailwind,laravel,nextjs,flutter)
 
 ### 🗄️ Databases
-![Databases: MySQL, Postgres, MongoDB, Supabase, Prisma](https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,prisma)
+![Databases: MySQL, Postgres, MongoDB, Supabase, Prisma](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma)
 
 ### 🧑‍💻 Technologies
 ![Technologies: Git, GitHub, Docker, Debian](https://skillicons.dev/icons?i=git,github,docker,debian)

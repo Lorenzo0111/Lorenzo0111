@@ -1,0 +1,62 @@
+[
+  {
+    "repo": "Lorenzo0111/QualityArmory",
+    "name": "QualityArmory",
+    "language": "Java",
+    "tags": [
+      "Spigot",
+      "112★"
+    ],
+    "description": "A powerful, feature-rich gun plugin for Minecraft servers. My most-starred project."
+  },
+  {
+    "repo": "Lorenzo0111/NextTravel",
+    "name": "NextTravel",
+    "language": "TypeScript",
+    "tags": [
+      "React Native",
+      "AI"
+    ],
+    "description": "Your travel assistant in your pocket: an LLM plans the whole trip, from stays to things to do."
+  },
+  {
+    "repo": "Lorenzo0111/LISA",
+    "name": "LISA",
+    "language": "TypeScript",
+    "tags": [
+      "Voice",
+      "Local AI"
+    ],
+    "description": "A modular voice assistant that runs on your own machine and keeps your data private."
+  },
+  {
+    "repo": "Lorenzo0111/CreatorDashboard",
+    "name": "CreatorDashboard",
+    "language": "TypeScript",
+    "tags": [
+      "Multi-platform",
+      "Analytics"
+    ],
+    "description": "One place to watch and run your plugins across Modrinth, Hangar, SpigotMC, CurseForge & more."
+  },
+  {
+    "repo": "Lorenzo0111/MultiLang",
+    "name": "MultiLang",
+    "language": "Java",
+    "tags": [
+      "Spigot",
+      "i18n"
+    ],
+    "description": "Remove language barriers and make everyone understand your Minecraft server."
+  },
+  {
+    "repo": "Lorenzo0111/DownloadTracker",
+    "name": "DownloadTracker",
+    "language": "TypeScript",
+    "tags": [
+      "Dashboard",
+      "GitHub"
+    ],
+    "description": "The elegant dashboard to track downloads for your GitHub releases."
+  }
+]

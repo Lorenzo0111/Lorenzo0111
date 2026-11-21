@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="Hi, I'm Lorenzo — software developer from Italy">
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+    .serif{font-family:'Instrument Serif',Georgia,'Times New Roman',serif;font-style:italic}
+    .press{animation:press 4s infinite}
+    .d1{animation-delay:.3s}.d2{animation-delay:.55s}.d3{animation-delay:.8s}.d4{animation-delay:1.05s}.d5{animation-delay:1.5s}
+    @keyframes press{0%{transform:translateY(0)}3%{transform:translateY(5px)}7%,100%{transform:translateY(0)}}
+    .blink{animation:blink 1.1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="20%" r="60%">
+      <stop offset="0" stop-color="#fcba03" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#fcba03" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="320" rx="20" fill="#141414"/>
+  <rect width="1000" height="320" rx="20" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="999" height="319" rx="19.5" fill="none" stroke="#2a2a2a"/>
+
+  <!-- copy -->
+  <text x="56" y="84" class="mono" font-size="13" letter-spacing="3" fill="#fcba03">01 — HELLO, WORLD</text>
+  <text x="56" y="152" class="sans" font-size="54" font-weight="700" fill="#ffffff">Hi, I'm Lorenzo<tspan class="blink" fill="#fcba03">_</tspan></text>
+  <text x="56" y="202" class="sans" font-size="21" fill="#a1a1a1">I design and build websites, apps and tools,</text>
+  <text x="56" y="234" class="sans" font-size="21" fill="#a1a1a1">from the database to the <tspan class="serif" font-size="26" fill="#fcba03">last pixel.</tspan></text>
+  <text x="56" y="282" class="mono" font-size="13" fill="#6b6b6b">◆ Italy  ·  coding since 13  ·  @Lorenzo0111</text>
+
+  <!-- keycaps: L 0 1 / 1 1 ↵ / space -->
+  <!-- amber -->
+  <g transform="translate(680 46)">
+    <rect y="6" width="72" height="72" rx="12" fill="#b88600"/>
+    <g class="press"><rect x="4" width="64" height="62" rx="10" fill="#fcba03" stroke="#ffd85c"/>
+      <text x="36" y="40" text-anchor="middle" class="sans" font-size="24" font-weight="700" fill="#241900">L</text></g>
+  </g>
+  <!-- graphite -->
+  <g transform="translate(764 46)">
+    <rect y="6" width="72" height="72" rx="12" fill="#0f0f10"/>
+    <g class="press d1"><rect x="4" width="64" height="62" rx="10" fill="#2c2c2e" stroke="#48484c"/>
+      <text x="36" y="40" text-anchor="middle" class="mono" font-size="22" fill="#e8e8e8">0</text></g>
+  </g>
+  <g transform="translate(848 46)">
+    <rect y="6" width="72" height="72" rx="12" fill="#0f0f10"/>
+    <g class="press d2"><rect x="4" width="64" height="62" rx="10" fill="#2c2c2e" stroke="#48484c"/>
+      <text x="36" y="40" text-anchor="middle" class="mono" font-size="22" fill="#e8e8e8">1</text></g>
+  </g>
+  <!-- row 2 -->
+  <g transform="translate(700 130)">
+    <rect y="6" width="72" height="72" rx="12" fill="#0f0f10"/>
+    <g class="press d3"><rect x="4" width="64" height="62" rx="10" fill="#2c2c2e" stroke="#48484c"/>
+      <text x="36" y="40" text-anchor="middle" class="mono" font-size="22" fill="#e8e8e8">1</text></g>
+  </g>
+  <g transform="translate(784 130)">
+    <rect y="6" width="72" height="72" rx="12" fill="#c9bfa9"/>
+    <g class="press d4"><rect x="4" width="64" height="62" rx="10" fill="#f5efe2" stroke="#fffaf0"/>
+      <text x="36" y="40" text-anchor="middle" class="mono" font-size="22" fill="#1b1b1b">1</text></g>
+  </g>
+  <g transform="translate(868 130)">
+    <rect y="6" width="72" height="72" rx="12" fill="#5fa8c9"/>
+    <g class="press d5"><rect x="4" width="64" height="62" rx="10" fill="#a2e2ff" stroke="#d2f2ff"/>
+      <text x="36" y="41" text-anchor="middle" class="sans" font-size="24" font-weight="700" fill="#052233">↵</text></g>
+  </g>
+  <!-- space -->
+  <g transform="translate(722 214)">
+    <rect y="6" width="200" height="72" rx="12" fill="#0f0f10"/>
+    <g><rect x="4" width="192" height="62" rx="10" fill="#2c2c2e" stroke="#48484c"/>
+      <text x="100" y="38" text-anchor="middle" class="mono" font-size="12" letter-spacing="2" fill="#7a7a7e">SPACE</text></g>
+  </g>
+</svg>
